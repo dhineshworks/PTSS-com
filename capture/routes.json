@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/Begin-Enrollment.html",
+    "slug": "begin-enrollment-html",
+    "url": "https://www.adaptedmind.com/Begin-Enrollment.html"
+  },
+  {
+    "path": "/login",
+    "slug": "login",
+    "url": "https://www.adaptedmind.com/login"
+  },
+  {
+    "path": "/forgot-password",
+    "slug": "forgot-password",
+    "url": "https://www.adaptedmind.com/forgot-password"
+  },
+  {
+    "path": "/info/about",
+    "slug": "info-about",
+    "url": "https://www.adaptedmind.com/info/about"
+  }
+]

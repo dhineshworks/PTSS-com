@@ -1,0 +1,672 @@
+{
+  "id": "ev_2a0703c86c44d455590ed4428124849214d5fae9099fda37edf9573749b94caa",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:50181/login"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": false,
+    "visitor_view": false,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 1,
+      "headings": 4,
+      "images": 2,
+      "links": 17,
+      "outline": 28
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 6,
+          "value": "#ffffff"
+        },
+        {
+          "count": 2,
+          "value": "#f1693c"
+        },
+        {
+          "count": 1,
+          "value": "#62c3ca"
+        },
+        {
+          "count": 1,
+          "value": "#eeeeee"
+        },
+        {
+          "count": 1,
+          "value": "#007888d9"
+        },
+        {
+          "count": 1,
+          "value": "#fffffff2"
+        }
+      ],
+      "css_variables": {
+        "--AMB-Text-Heading": "#203ba4",
+        "--UP-AMBright-BTN-Primary-BG": "linear-gradient(180deg,#25e900 16.67%,#0b9515 89.06%)",
+        "--UP-AMBright-BTN-Secondary-BG": "linear-gradient(180deg,#80d9ff,#54b1f4)",
+        "--UP-AMBright-BTN-Secondary-BG-Disabled": "linear-gradient(0deg,#636363 1.52%,#a4a4a4 93.24%)",
+        "--UP-AMBright-MDL-BG": "#fffffe",
+        "--UP-AMBright-Primary-DS": "0 0 20px rgba(0,45,94,0.4)",
+        "--UP-AMBright-Secondary-DS": "0px 0px 6px 0px rgba(0,45,94,0.4)",
+        "--UP-AMBright-TXT-Default-Color": "#005fd2",
+        "--UP-Default-Font-Family": "Baloo2,sans-serif",
+        "--UP-learning-container-max-height": "39.375vw",
+        "--accent-orange": "#f1693c",
+        "--accent-orange-border": "#c94727",
+        "--accent-orange-hover": "#fc7549",
+        "--animation-answer-correct-text": "answerCorrectText 5s cubic-bezier(0.6,0.17,0.64,0.99) 0s forwards",
+        "--animation-answer-incorrect-text": "answerIncorrectText 1s cubic-bezier(0.6,0.17,0.64,0.99) 0s forwards",
+        "--animation-arrow-bobbing-down": "arrowBobbingDown 3s ease-in-out 0s infinite",
+        "--animation-arrow-bobbing-side": "arrowBobbingSide 3s ease-in-out 0s infinite",
+        "--animation-bobbing-up-down-kit": "bobbingUpDown 3s ease-in-out infinite",
+        "--animation-bobbing-up-down-small-kit": "bobbingUpDownSmall 3s ease-in-out infinite",
+        "--animation-click-expand": "clickExpand",
+        "--animation-click-expand-kit": "clickExpand 0.5s ease-in-out",
+        "--animation-expand": "expand",
+        "--animation-fun-expand": "funExpand",
+        "--animation-fun-expand-kit": "funExpand 2s ease-in-out infinite",
+        "--animation-fun-expand-small": "funExpandSmall",
+        "--animation-fun-expand-small-kit": "funExpandSmall 2s infinite ease-in-out",
+        "--animation-fun-expand-smaller": "funExpandSmaller",
+        "--animation-fun-expand-smaller-kit": "funExpandSmaller 2.5s infinite ease-in-out",
+        "--animation-hook-sway-kit": "hookSway 5s ease-in-out 0s infinite",
+        "--announcement-magenta": "#a20175",
+        "--announcement-text-color": "var(--announcement-magenta)",
+        "--announcement-text-shadow": "var(--white)",
+        "--answer-text-color": "#f2788f",
+        "--app-font-family": "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "--app-full-height": "calc(100vh - var(--app-topbar-full-height))",
+        "--app-mobile-height": "calc(100vh - var(--app-topbar-mobile-height))",
+        "--app-topbar-full-height": "73px",
+        "--app-topbar-mobile-height": "40px",
+        "--background-level-1": "#78c2f8",
+        "--background-level-10": "#03557f",
+        "--background-level-11": "#f3e0b7",
+        "--background-level-12": "#519eee",
+        "--background-level-13": "#9e2a08",
+        "--background-level-14": "#2d88fc",
+        "--background-level-15": "#1d56c5",
+        "--background-level-16": "#2d88fc",
+        "--background-level-17": "linear-gradient(90deg,#cba711,#d4af0d)",
+        "--background-level-18": "linear-gradient(90deg,#cba711,#d4af0d)",
+        "--background-level-19": "linear-gradient(90deg,#cba711,#d4af0d)",
+        "--background-level-2": "#78c2f8",
+        "--background-level-20": "linear-gradient(90deg,#cba711,#d4af0d)",
+        "--background-level-21": "linear-gradient(90deg,#cba711,#d4af0d)",
+        "--background-level-22": "#214e2a",
+        "--background-level-23": "#bc7300",
+        "--background-level-24": "#005aff",
+        "--background-level-25": "#10cb40",
+        "--background-level-26": "#237624",
+        "--background-level-27": "#237624",
+        "--background-level-28": "#237624",
+        "--background-level-29": "#f07a00",
+        "--background-level-3": "#e7af17",
+        "--background-level-30": "#bc7300",
+        "--background-level-31": "#bc7300",
+        "--background-level-32": "#ffffff",
+        "--background-level-33": "#ffffff",
+        "--background-level-34": "#ffffff",
+        "--background-level-35": "#ffffff",
+        "--background-level-36": "#ffffff",
+        "--background-level-4": "#dbdbd7",
+        "--background-level-5": "#dbdbd7",
+        "--background-level-6": "#2d88fc",
+        "--background-level-7": "#87effc",
+        "--background-level-8": "#c56a01",
+        "--background-level-9": "#5fadbc",
+        "--background-login-page": "rgba(255,255,255,0.95)",
+        "--background-map-1": "#2e89fc",
+        "--background-map-2": "linear-gradient(90deg,#fee269,#e9ac1b,#be6709)",
+        "--background-map-3": "#6d8509",
+        "--background-map-4": "#ffffff",
+        "--black": "#000000",
+        "--black-opacity": "rgba(0,0,0,0.5)",
+        "--bs-black": "#000",
+        "--bs-black-rgb": "0,0,0",
+        "--bs-blue": "#0d6efd",
+        "--bs-body-bg": "#fff",
+        "--bs-body-bg-rgb": "255,255,255",
+        "--bs-body-color": "#212529",
+        "--bs-body-color-rgb": "33,37,41",
+        "--bs-body-font-family": "var(--bs-font-sans-serif)",
+        "--bs-body-font-size": "1rem",
+        "--bs-body-font-weight": "400",
+        "--bs-body-line-height": "1.5",
+        "--bs-border-color": "#dee2e6",
+        "--bs-border-color-translucent": "rgba(0,0,0,0.175)",
+        "--bs-border-radius": "0.375rem",
+        "--bs-border-radius-2xl": "var(--bs-border-radius-xxl)",
+        "--bs-border-radius-lg": "0.5rem",
+        "--bs-border-radius-pill": "50rem",
+        "--bs-border-radius-sm": "0.25rem",
+        "--bs-border-radius-xl": "1rem",
+        "--bs-border-radius-xxl": "2rem",
+        "--bs-border-style": "solid",
+        "--bs-border-width": "1px",
+        "--bs-box-shadow": "0 0.5rem 1rem rgba(0,0,0,0.15)",
+        "--bs-box-shadow-inset": "inset 0 1px 2px rgba(0,0,0,0.075)",
+        "--bs-box-shadow-lg": "0 1rem 3rem rgba(0,0,0,0.175)",
+        "--bs-box-shadow-sm": "0 0.125rem 0.25rem rgba(0,0,0,0.075)",
+        "--bs-breakpoint-lg": "992px",
+        "--bs-breakpoint-md": "768px",
+        "--bs-breakpoint-sm": "576px",
+        "--bs-breakpoint-xl": "1200px",
+        "--bs-breakpoint-xs": "0",
+        "--bs-breakpoint-xxl": "1400px",
+        "--bs-btn-close-filter": "",
+        "--bs-carousel-caption-color": "#fff",
+        "--bs-carousel-control-icon-filter": "",
+        "--bs-carousel-indicator-active-bg": "#fff",
+        "--bs-code-color": "#d63384",
+        "--bs-cyan": "#0dcaf0",
+        "--bs-danger": "#dc3545",
+        "--bs-danger-bg-subtle": "#f8d7da",
+        "--bs-danger-border-subtle": "#f1aeb5",
+        "--bs-danger-rgb": "220,53,69",
+        "--bs-danger-text-emphasis": "#58151c",
+        "--bs-dark": "#212529",
+        "--bs-dark-bg-subtle": "#ced4da",
+        "--bs-dark-border-subtle": "#adb5bd",
+        "--bs-dark-rgb": "33,37,41",
+        "--bs-dark-text-emphasis": "#495057",
+        "--bs-emphasis-color": "#000",
+        "--bs-emphasis-color-rgb": "0,0,0",
+        "--bs-focus-ring-color": "rgba(13,110,253,0.25)",
+        "--bs-focus-ring-opacity": "0.25",
+        "--bs-focus-ring-width": "0.25rem",
+        "--bs-font-monospace": "SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+        "--bs-font-sans-serif": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color E",
+        "--bs-form-invalid-border-color": "#dc3545",
+        "--bs-form-invalid-color": "#dc3545",
+        "--bs-form-valid-border-color": "#198754",
+        "--bs-form-valid-color": "#198754",
+        "--bs-gradient": "linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0))",
+        "--bs-gray": "#6c757d",
+        "--bs-gray-100": "#f8f9fa",
+        "--bs-gray-200": "#e9ecef",
+        "--bs-gray-300": "#dee2e6",
+        "--bs-gray-400": "#ced4da",
+        "--bs-gray-500": "#adb5bd",
+        "--bs-gray-600": "#6c757d",
+        "--bs-gray-700": "#495057",
+        "--bs-gray-800": "#343a40",
+        "--bs-gray-900": "#212529",
+        "--bs-gray-dark": "#343a40",
+        "--bs-green": "#198754",
+        "--bs-heading-color": "inherit",
+        "--bs-highlight-bg": "#fff3cd",
+        "--bs-highlight-color": "#212529",
+        "--bs-indigo": "#6610f2",
+        "--bs-info": "#0dcaf0",
+        "--bs-info-bg-subtle": "#cff4fc",
+        "--bs-info-border-subtle": "#9eeaf9",
+        "--bs-info-rgb": "13,202,240",
+        "--bs-info-text-emphasis": "#055160",
+        "--bs-light": "#f8f9fa",
+        "--bs-light-bg-subtle": "#fcfcfd",
+        "--bs-light-border-subtle": "#e9ecef",
+        "--bs-light-rgb": "248,249,250",
+        "--bs-light-text-emphasis": "#495057",
+        "--bs-link-color": "#0d6efd",
+        "--bs-link-color-rgb": "13,110,253",
+        "--bs-link-decoration": "underline",
+        "--bs-link-hover-color": "#0a58ca",
+        "--bs-link-hover-color-rgb": "10,88,202",
+        "--bs-orange": "#fd7e14",
+        "--bs-pink": "#d63384",
+        "--bs-primary": "#0d6efd",
+        "--bs-primary-bg-subtle": "#cfe2ff",
+        "--bs-primary-border-subtle": "#9ec5fe",
+        "--bs-primary-rgb": "13,110,253",
+        "--bs-primary-text-emphasis": "#052c65",
+        "--bs-purple": "#6f42c1",
+        "--bs-red": "#dc3545",
+        "--bs-secondary": "#6c757d",
+        "--bs-secondary-bg": "#e9ecef",
+        "--bs-secondary-bg-rgb": "233,236,239",
+        "--bs-secondary-bg-subtle": "#e2e3e5",
+        "--bs-secondary-border-subtle": "#c4c8cb",
+        "--bs-secondary-color": "rgba(33,37,41,0.75)",
+        "--bs-secondary-color-rgb": "33,37,41",
+        "--bs-secondary-rgb": "108,117,125",
+        "--bs-secondary-text-emphasis": "#2b2f32",
+        "--bs-success": "#198754",
+        "--bs-success-bg-subtle": "#d1e7dd",
+        "--bs-success-border-subtle": "#a3cfbb",
+        "--bs-success-rgb": "25,135,84",
+        "--bs-success-text-emphasis": "#0a3622",
+        "--bs-teal": "#20c997",
+        "--bs-tertiary-bg": "#f8f9fa",
+        "--bs-tertiary-bg-rgb": "248,249,250",
+        "--bs-tertiary-color": "rgba(33,37,41,0.5)",
+        "--bs-tertiary-color-rgb": "33,37,41",
+        "--bs-warning": "#ffc107",
+        "--bs-warning-bg-subtle": "#fff3cd",
+        "--bs-warning-border-subtle": "#ffe69c",
+        "--bs-warning-rgb": "255,193,7",
+        "--bs-warning-text-emphasis": "#664d03",
+        "--bs-white": "#fff",
+        "--bs-white-rgb": "255,255,255",
+        "--bs-yellow": "#ffc107",
+        "--btn-default-bg": "#eeeeee",
+        "--btn-default-color": "#555555",
+        "--button-font-family": "\"futura\",sans-serif",
+        "--card-bg": "rgba(255, 255, 255, .95)",
+        "--card-border": "rgba(47, 76, 125, .5)",
+        "--clr-accent-000": "#ffffff",
+        "--clr-accent-100": "#bdd5d6",
+        "--clr-accent-200": "#a6a6a6",
+        "--clr-accent-300": "#f1693c",
+        "--clr-accent-400": "#f4f4f6",
+        "--clr-accent-500": "#6b6b6b",
+        "--clr-accent-700": "#363636",
+        "--clr-primary-100": "#66cccc",
+        "--clr-primary-400": "#0d8b9c",
+        "--correct-answer-text-color": "#5cc08a",
+        "--dark-blue": "#006494",
+        "--ff-account": "\"Poppins\",sans-serif",
+        "--ff-button": "\"Museo Sans\",\"Lucida Grande\",Arial,sans-serif",
+        "--ff-nav": "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "--ff-primary": "MuseoSans-500, \"Lucida Grande\", Arial, sans-serif",
+        "--ff-secondary": "\"Museo Sans\",\"Lucida Grande\",Arial,sans-serif",
+        "--focus-border-radius": "8px",
+        "--focus-outline": "3px solid #fff",
+        "--focus-outline-offset": "4px",
+        "--footer-padding": "26px",
+        "--fs-body-1": "1.25rem",
+        "--fs-body-2": "1.05rem",
+        "--fs-button": "1.5rem",
+        "--fs-footer": "12.8px",
+        "--fs-footer-page-section-title-padding": "20px",
+        "--fs-headline-1": "2.15rem",
+        "--fs-headline-2": "1.5rem",
+        "--fs-nav": "0.8rem",
+        "--fs-subtitle": "1.5rem",
+        "--fw-bold": "700",
+        "--fw-light": "300",
+        "--fw-medium": "500",
+        "--fw-semi-bold": "600",
+        "--game-button-font-family": "lemon",
+        "--game-button-text-shadow": "#00991a",
+        "--game-font-family": "lemon",
+        "--game-font-prompt": "American Typewriter",
+        "--game-input-font-family": "LuckiestGuy",
+        "--gray": "#9e9e9e",
+        "--header-text-color": "var(--dark-blue)",
+        "--login-font-family": "MuseoSans-500, \"Lucida Grande\", Arial, sans-serif",
+        "--modal-text-font-family": "\"futura\",sans-serif",
+        "--nav-font-family": "var(--app-font-family)",
+        "--nav-hover-color": "#146c78",
+        "--nav-menu-navy": "#646993",
+        "--primary": "#62c3ca",
+        "--primary-app-color": "#62c3ca",
+        "--primary-background-color": "#f2fcfe",
+        "--primary-button-text-color": "var(--white)",
+        "--primary-hover": "#52b3ba",
+        "--primary-link-text-color": "var(--white)",
+        "--primary-text-color": "var(--white)",
+        "--problem-text-size": "max(1.5vw,12px)",
+        "--prompt-text-color": "#096590",
+        "--secondary-text-color": "var(--black)",
+        "--section-text-padding": "50px",
+        "--stripe-fields-font-family": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen,Ubuntu,Cantarell,\"Open Sans\",\"Helvetica Neue\",sans-serif",
+        "--text-muted": "#a6a6a6",
+        "--topnav-height": "73px",
+        "--unified-problem-text-size": "22px",
+        "--video-height": "calc(100vw * (9 / 16))",
+        "--webview-problem-text-size": "15px",
+        "--white": "#ffffff"
+      },
+      "font_faces": [
+        {
+          "family": "lemon",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "poppins",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "poppins",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "600"
+        },
+        {
+          "family": "Lucida Grande",
+          "status": "loaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "mulish",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "LuckiestGuy",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "Glyphicons Halflings",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "normal"
+        },
+        {
+          "family": "Museo Sans",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "MuseoSans-500",
+          "status": "loaded",
+          "style": "normal",
+          "weight": "normal"
+        },
+        {
+          "family": "Baloo2",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400 800"
+        },
+        {
+          "family": "futura",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "300"
+        },
+        {
+          "family": "futura",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "500"
+        },
+        {
+          "family": "futura",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "700"
+        },
+        {
+          "family": "MuseoSans-500",
+          "status": "loaded",
+          "style": "normal",
+          "weight": "500"
+        },
+        {
+          "family": "FuturaStd-Medium",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "500"
+        },
+        {
+          "family": "Lucida Grande",
+          "status": "loaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "Poppins",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "family": "Poppins",
+          "status": "unloaded",
+          "style": "normal",
+          "weight": "600"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 11,
+          "value": "12.8px"
+        },
+        {
+          "count": 2,
+          "value": "13px"
+        },
+        {
+          "count": 1,
+          "value": "35px"
+        },
+        {
+          "count": 1,
+          "value": "20.8px"
+        },
+        {
+          "count": 1,
+          "value": "14px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 10,
+          "value": "500"
+        },
+        {
+          "count": 5,
+          "value": "700"
+        },
+        {
+          "count": 1,
+          "value": "400"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 10,
+          "value": "MuseoSans-500, \"Lucida Grande\", Arial, sans-serif"
+        },
+        {
+          "count": 5,
+          "value": "\"Helvetica Neue\", Helvetica, Arial, sans-serif"
+        },
+        {
+          "count": 1,
+          "value": "\"Lucida Grande\", Arial, sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 1,
+          "value": "1320px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 4,
+          "value": "6px"
+        },
+        {
+          "count": 3,
+          "value": "4px"
+        },
+        {
+          "count": 1,
+          "value": "8px"
+        }
+      ],
+      "shadows": [],
+      "spacing": [
+        {
+          "count": 17,
+          "value": "8px"
+        },
+        {
+          "count": 11,
+          "value": "16px"
+        },
+        {
+          "count": 7,
+          "value": "15px"
+        },
+        {
+          "count": 7,
+          "value": "10px"
+        },
+        {
+          "count": 6,
+          "value": "20px"
+        },
+        {
+          "count": 4,
+          "value": "3px"
+        },
+        {
+          "count": 2,
+          "value": "6px"
+        },
+        {
+          "count": 2,
+          "value": "4px"
+        },
+        {
+          "count": 2,
+          "value": "12px"
+        },
+        {
+          "count": 2,
+          "value": "13px"
+        },
+        {
+          "count": 2,
+          "value": "30px"
+        },
+        {
+          "count": 2,
+          "value": "26px"
+        },
+        {
+          "count": 2,
+          "value": "-1px"
+        },
+        {
+          "count": 1,
+          "value": "22px"
+        },
+        {
+          "count": 1,
+          "value": "100px"
+        },
+        {
+          "count": 1,
+          "value": "50px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 9,
+          "value": "#a6a6a6"
+        },
+        {
+          "count": 4,
+          "value": "#ffffff"
+        },
+        {
+          "count": 1,
+          "value": "#555555"
+        },
+        {
+          "count": 1,
+          "value": "#000000"
+        },
+        {
+          "count": 1,
+          "value": "#428bca"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "C:\\Users\\DHINESH\\OneDrive\\Documents\\Craft Anything\\adaptedmind-com\\checks\\round-0\\routes/login",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": false,
+        "file": "screenshot-1440.png",
+        "height": 900,
+        "sha256": "63697bdefac91b880c7a6c053b4c2b354cccdeb140a2494f714700fc35db90ff",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": false,
+        "file": "screenshot-768.png",
+        "height": 900,
+        "sha256": "497020f1132e2d3bc5e9c869042bee00ec25657c070af4dbee1fca31994e712b",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": false,
+        "file": "screenshot-390.png",
+        "height": 900,
+        "sha256": "55266ad71a4e1e7bd03ad2b085a96bcc30e9ebaf6b481abd5a44b6da2a0c16d4",
+        "width": 390
+      }
+    ],
+    "title": "AdaptedMind",
+    "url": "http://127.0.0.1:50181/login"
+  },
+  "summary": "Captured http://127.0.0.1:50181/login: 3 screenshot(s), 28 outline items, 4 headings, 2 images, 17 links, 1 forms → C:\\Users\\DHINESH\\OneDrive\\Documents\\Craft Anything\\adaptedmind-com\\checks\\round-0\\routes/login.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "cross_origin_css",
+      "message": "CSS custom properties and breakpoints from cross-origin stylesheets can't be read."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:50181/login"
+    },
+    {
+      "kind": "path",
+      "value": "C:\\Users\\DHINESH\\OneDrive\\Documents\\Craft Anything\\adaptedmind-com\\checks\\round-0\\routes/login"
+    }
+  ],
+  "links": []
+}

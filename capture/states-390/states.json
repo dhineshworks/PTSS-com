@@ -1,0 +1,16 @@
+{
+  "states": [
+    {
+      "changed": [
+        "expanded"
+      ],
+      "file": "state-1.png",
+      "index": 0,
+      "kind": "menu",
+      "label": "",
+      "sha256": "1917f1cc7793c9248714897d0097424782458e406f3b05d93635ad00c419b70e"
+    }
+  ],
+  "url": "https://www.adaptedmind.com/login",
+  "width": 390
+}

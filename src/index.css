@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+  }
+
+  body {
+    background-color: #BDEBFF;
+    color: #0F4C5C;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fredoka', cursive, sans-serif;
+    font-weight: 700;
+  }
+}
+
+/* 3D Candy Button styling */
+.candy-btn {
+  position: relative;
+  border-radius: 28px;
+  font-family: 'Fredoka', cursive, sans-serif;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease-out;
+  cursor: pointer;
+  min-height: 64px;
+  min-width: 64px;
+  touch-action: manipulation;
+}
+
+.candy-btn-green {
+  background: linear-gradient(180deg, #4AE891 0%, #3DDC84 100%);
+  color: #FFFFFF;
+  box-shadow: 0 8px 0 #28A55E, 0 12px 16px rgba(0, 0, 0, 0.15);
+  border: 3px solid #73FFB2;
+}
+.candy-btn-green:active {
+  transform: translateY(6px);
+  box-shadow: 0 2px 0 #28A55E, 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+.candy-btn-yellow {
+  background: linear-gradient(180deg, #FFE169 0%, #FFD23F 100%);
+  color: #593E00;
+  box-shadow: 0 8px 0 #D4A000, 0 12px 16px rgba(0, 0, 0, 0.15);
+  border: 3px solid #FFF1A8;
+}
+.candy-btn-yellow:active {
+  transform: translateY(6px);
+  box-shadow: 0 2px 0 #D4A000, 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+.candy-btn-coral {
+  background: linear-gradient(180deg, #FF9575 0%, #FF7B54 100%);
+  color: #FFFFFF;
+  box-shadow: 0 8px 0 #D94E27, 0 12px 16px rgba(0, 0, 0, 0.15);
+  border: 3px solid #FFAF96;
+}
+.candy-btn-coral:active {
+  transform: translateY(6px);
+  box-shadow: 0 2px 0 #D94E27, 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+.candy-btn-purple {
+  background: linear-gradient(180deg, #9975FF 0%, #7B4DFF 100%);
+  color: #FFFFFF;
+  box-shadow: 0 8px 0 #5427D6, 0 12px 16px rgba(0, 0, 0, 0.15);
+  border: 3px solid #BA9FFF;
+}
+.candy-btn-purple:active {
+  transform: translateY(6px);
+  box-shadow: 0 2px 0 #5427D6, 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Cream card style with leaf-green border */
+.cream-card {
+  background-color: #FFF8E7;
+  border: 3px solid rgba(61, 220, 132, 0.45);
+  border-radius: 28px;
+  box-shadow: 0 10px 24px -4px rgba(15, 76, 92, 0.12), 0 4px 8px -2px rgba(15, 76, 92, 0.08);
+}
+
+/* Gentle shaking animation for wrong answers */
+@keyframes soft-shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-8px) rotate(-1deg); }
+  40%, 80% { transform: translateX(8px) rotate(1deg); }
+}
+
+.animate-soft-shake {
+  animation: soft-shake 0.45s ease-in-out;
+}
+
+/* Egg wobble animation */
+@keyframes egg-wobble-low {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-3deg); }
+  75% { transform: rotate(3deg); }
+}
+
+@keyframes egg-wobble-high {
+  0%, 100% { transform: rotate(0deg) scale(1); }
+  15% { transform: rotate(-10deg) scale(1.05); }
+  35% { transform: rotate(10deg) scale(1.08); }
+  55% { transform: rotate(-8deg) scale(1.06); }
+  75% { transform: rotate(8deg) scale(1.09); }
+}
+
+.animate-wobble-low {
+  animation: egg-wobble-low 2s ease-in-out infinite;
+}
+
+.animate-wobble-high {
+  animation: egg-wobble-high 0.8s ease-in-out infinite;
+}

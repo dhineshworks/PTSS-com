@@ -1,0 +1,66 @@
+{
+  "id": "ev_f76d97849e33ce8b4f80967ee03fb73368f3213523ddb3c424e56372a5513c64",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:51163/"
+  },
+  "operation": "web_page_states_capture",
+  "params": {
+    "max_states": 8,
+    "width": 390
+  },
+  "result": {
+    "folder": "C:\\Users\\DHINESH\\OneDrive\\Documents\\Craft Anything\\adaptedmind-com\\checks\\round-0\\states-390",
+    "found": 2,
+    "states": [
+      {
+        "changed": [
+          "expanded"
+        ],
+        "file": "state-1.png",
+        "index": 0,
+        "kind": "menu",
+        "label": "Menu",
+        "sha256": "418be8389ae8775000ea49aa1be02be0556578150baadb4ebdbda64847b92beb"
+      },
+      {
+        "changed": [
+          "expanded"
+        ],
+        "file": "state-2.png",
+        "index": 1,
+        "kind": "menu",
+        "label": "Menu",
+        "sha256": "418be8389ae8775000ea49aa1be02be0556578150baadb4ebdbda64847b92beb"
+      }
+    ],
+    "url": "http://127.0.0.1:51163/"
+  },
+  "summary": "Opened 2 of 2 control(s) on http://127.0.0.1:51163/; 2 pictured in C:\\Users\\DHINESH\\OneDrive\\Documents\\Craft Anything\\adaptedmind-com\\checks\\round-0\\states-390.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "first_controls",
+      "message": "Only the first controls found are opened, one at a time; menus inside menus and hover-only menus are not."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 2,
+    "total": 2
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:51163/"
+    }
+  ],
+  "links": []
+}

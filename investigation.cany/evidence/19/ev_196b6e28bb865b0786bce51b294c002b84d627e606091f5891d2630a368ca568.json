@@ -1,0 +1,45 @@
+{
+  "id": "ev_196b6e28bb865b0786bce51b294c002b84d627e606091f5891d2630a368ca568",
+  "subject": {
+    "kind": "website",
+    "name": "https://www.adaptedmind.com/login"
+  },
+  "operation": "web_page_states_capture",
+  "params": {
+    "max_states": 4,
+    "width": 1440
+  },
+  "result": {
+    "folder": "C:\\Users\\DHINESH\\OneDrive\\Documents\\Craft Anything\\adaptedmind-com\\capture\\states",
+    "found": 0,
+    "states": [],
+    "url": "https://www.adaptedmind.com/login"
+  },
+  "summary": "https://www.adaptedmind.com/login has no menus, pop-ups, tabs or collapsed sections to open.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "first_controls",
+      "message": "Only the first controls found are opened, one at a time; menus inside menus and hover-only menus are not."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 0,
+    "total": 0
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://www.adaptedmind.com/login"
+    }
+  ],
+  "links": []
+}

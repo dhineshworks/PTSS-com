@@ -1,0 +1,54 @@
+{
+  "id": "ev_c7fce2ee2dd6435206d5933ddfcfc28e9ed30710c72950b0e63221b54af796fe",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:59912/"
+  },
+  "operation": "web_page_states_capture",
+  "params": {
+    "max_states": 8,
+    "width": 390
+  },
+  "result": {
+    "folder": "C:\\Users\\DHINESH\\OneDrive\\Documents\\Craft Anything\\adaptedmind-com\\checks\\round-1\\states-390",
+    "found": 1,
+    "states": [
+      {
+        "changed": [],
+        "file": "state-1.png",
+        "index": 0,
+        "kind": "menu",
+        "label": "",
+        "sha256": "44a2b0c41bc72a39393b96893cd31745f66a9545bc85e80901763b594ed62f42"
+      }
+    ],
+    "url": "http://127.0.0.1:59912/"
+  },
+  "summary": "Opened 1 of 1 control(s) on http://127.0.0.1:59912/; 1 pictured in C:\\Users\\DHINESH\\OneDrive\\Documents\\Craft Anything\\adaptedmind-com\\checks\\round-1\\states-390.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "first_controls",
+      "message": "Only the first controls found are opened, one at a time; menus inside menus and hover-only menus are not."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:59912/"
+    }
+  ],
+  "links": []
+}

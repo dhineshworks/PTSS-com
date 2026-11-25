@@ -1,0 +1,77 @@
+[
+  {
+    "id": "story-1",
+    "title": "The Mystery of the Coconut Tree",
+    "topic": "Counting & Patterns",
+    "durationSeconds": 120,
+    "powerReward": 20,
+    "thumbnail": "🥥",
+    "videoUrl": "https://www.youtube.com/watch?v=Ots_roOw4Pg",
+    "summary": "Join Professor Owl and sing along to count coconuts and tropical jungle treasures from 1 to 20!",
+    "quiz": {
+      "question": "What did Professor Owl count in the sunny jungle song?",
+      "options": ["Counting Numbers", "Pineapples", "Watermelons"],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "story-2",
+    "title": "Mango's Fruit Basket Adventure",
+    "topic": "Addition in the Wild",
+    "durationSeconds": 125,
+    "powerReward": 20,
+    "thumbnail": "🥭",
+    "videoUrl": "https://www.youtube.com/watch?v=A3ZbV_3_D44",
+    "summary": "Mango leaps through the treetops counting delicious jungle fruits by twos: 2, 4, 6, 8, 10!",
+    "quiz": {
+      "question": "When Mango counts by twos after 2 and 4, what comes next?",
+      "options": ["5", "6", "7"],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "story-3",
+    "title": "Leafy's Rainbow Camouflage",
+    "topic": "Colors & Shapes",
+    "durationSeconds": 160,
+    "powerReward": 20,
+    "thumbnail": "🦎",
+    "videoUrl": "https://www.youtube.com/watch?v=WTeqUejf3D0",
+    "summary": "Watch Leafy explore circles, squares, and triangles hiding in the magical jungle leaves!",
+    "quiz": {
+      "question": "Which shape has 3 sides and 3 corners in Leafy's song?",
+      "options": ["Circle", "Triangle", "Square"],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "story-4",
+    "title": "Bloop's Lilypad Leaps",
+    "topic": "Counting & Hopping",
+    "durationSeconds": 115,
+    "powerReward": 20,
+    "thumbnail": "🐸",
+    "videoUrl": "https://www.youtube.com/watch?v=7z5oV82gYvE",
+    "summary": "Bloop hops along the pond lilypads counting 3, 6, 9, 12 with joyful frog splash rhythms!",
+    "quiz": {
+      "question": "How many lilypad hops does Bloop take each time when counting by threes?",
+      "options": ["3 hops", "10 hops", "1 hop"],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "story-5",
+    "title": "Professor Owl's Starry Sky Clock",
+    "topic": "Time & Big Numbers",
+    "durationSeconds": 130,
+    "powerReward": 20,
+    "thumbnail": "🦉",
+    "videoUrl": "https://www.youtube.com/watch?v=7hXN_x6ZqjM",
+    "summary": "Professor Owl charts glowing constellation stars counting by tens all the way up to 100!",
+    "quiz": {
+      "question": "When Professor Owl counts by tens, what number comes after 10, 20, 30?",
+      "options": ["35", "40", "50"],
+      "correctIndex": 1
+    }
+  }
+]

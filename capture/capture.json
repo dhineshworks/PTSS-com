@@ -1,0 +1,2027 @@
+{
+  "a11y": {
+    "images_without_alt": 1,
+    "landmarks": {
+      "contentinfo": 1,
+      "navigation": 4
+    },
+    "lang": "en",
+    "unnamed_controls": 0,
+    "unnamed_examples": []
+  },
+  "assets": {
+    "background_images": [
+      "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/imagesprodold/homepage-9.jpg"
+    ],
+    "fonts": [
+      "https://assets.adaptedmind.com/fonts/FuturaStd-Medium.woff2",
+      "https://assets.adaptedmind.com/fonts/msans.woff2",
+      "https://assets.adaptedmind.com/fonts/Lucida-Grande.ttf"
+    ],
+    "images": [
+      {
+        "alt": "Learn more about AdaptedMind",
+        "h": 30,
+        "src": "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/images/logo-white.png",
+        "w": 201
+      },
+      {
+        "alt": "",
+        "h": 90,
+        "src": "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/images/monster-logo.png",
+        "w": 145
+      },
+      {
+        "alt": "Company Logo",
+        "h": 1024,
+        "src": "https://cdn.cookielaw.org/logos/aa52a672-b310-4969-a58b-8c8db9c5ba10/773bc9d8-1dbc-4591-a6aa-03ce52f85b9f/04487ae4-bedc-40f5-a8ec-1ae315ce531d/AM-Math_AppIcon_AM-Math_Ico-1024.png",
+        "w": 1024
+      },
+      {
+        "alt": "Powered by Onetrust",
+        "h": 53,
+        "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "w": 568
+      }
+    ],
+    "inline_scripts": 6,
+    "requests": [
+      {
+        "bytes": 179788,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/xahk/"
+      },
+      {
+        "bytes": 41835,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/css/5d10534b99447693.css"
+      },
+      {
+        "bytes": 1722,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/css/2a67169a01422410.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://cdn.cookielaw.org/consent/812b1c8d-47ed-4442-90db-4eac46b7126d/OtAutoBlock.js"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+      },
+      {
+        "bytes": 3874,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/webpack-d3ab72e71fc65009.js"
+      },
+      {
+        "bytes": 361,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/f400d1e0f728d56d61ec3e0271378cfd64cbad83/_ssgManifest.js"
+      },
+      {
+        "bytes": 60097,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/framework-66ffbd0463589e3b.js"
+      },
+      {
+        "bytes": 2747,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/login-43164988bde4d345.js"
+      },
+      {
+        "bytes": 7771,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/f400d1e0f728d56d61ec3e0271378cfd64cbad83/_buildManifest.js"
+      },
+      {
+        "bytes": 43500,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/main-c4a700cbbca718b0.js"
+      },
+      {
+        "bytes": 192542,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/_app-2c254abf22ab878b.js"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+      },
+      {
+        "bytes": 0,
+        "type": "xmlhttprequest",
+        "url": "https://cdn.cookielaw.org/consent/812b1c8d-47ed-4442-90db-4eac46b7126d/812b1c8d-47ed-4442-90db-4eac46b7126d.json"
+      },
+      {
+        "bytes": 0,
+        "type": "xmlhttprequest",
+        "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/otBannerSdk.js"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://assets.adaptedmind.com/fonts/FuturaStd-Medium.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/images/logo-white.png"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/images/monster-logo.png"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/imagesprodold/homepage-9.jpg"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://assets.adaptedmind.com/fonts/msans.woff2"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://assets.adaptedmind.com/fonts/Lucida-Grande.ttf"
+      },
+      {
+        "bytes": 302,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/data/f400d1e0f728d56d61ec3e0271378cfd64cbad83/forgot-password.json"
+      },
+      {
+        "bytes": 302,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/data/f400d1e0f728d56d61ec3e0271378cfd64cbad83/info/about.json"
+      },
+      {
+        "bytes": 302,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/data/f400d1e0f728d56d61ec3e0271378cfd64cbad83/info/testimonials.json"
+      },
+      {
+        "bytes": 302,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/data/f400d1e0f728d56d61ec3e0271378cfd64cbad83/info/legal.json"
+      },
+      {
+        "bytes": 302,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/data/f400d1e0f728d56d61ec3e0271378cfd64cbad83/info/privacy.json"
+      },
+      {
+        "bytes": 302,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/data/f400d1e0f728d56d61ec3e0271378cfd64cbad83/info/guarantee.json"
+      },
+      {
+        "bytes": 302,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/data/f400d1e0f728d56d61ec3e0271378cfd64cbad83/info/scholarships.json"
+      },
+      {
+        "bytes": 302,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/data/f400d1e0f728d56d61ec3e0271378cfd64cbad83/info/contact.json"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://cdn.cookielaw.org/consent/812b1c8d-47ed-4442-90db-4eac46b7126d/01a1eaa2-0902-78b7-845b-27c3adc4674e/en.json"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcCenter.json"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.googletagmanager.com/gtag/js"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.googletagmanager.com/gtm.js"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://cdn.cookielaw.org/logos/aa52a672-b310-4969-a58b-8c8db9c5ba10/773bc9d8-1dbc-4591-a6aa-03ce52f85b9f/04487ae4-bedc-40f5-a8ec-1ae315ce531d/AM-Math_AppIcon_AM-Math_Ico-1024.png"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.googletagmanager.com/gtag/js"
+      },
+      {
+        "bytes": 204798,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/xahk/P_AFRTcrDWH-c4TV598WgOwGYElQKmFLeRluKTPSCN1pfj6_"
+      },
+      {
+        "bytes": 134298,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/xahk/P_AFRTcrHw2CFOPVmL8X8pR7dwxLbz8OOAp3eTqDW4ljJws-vw"
+      },
+      {
+        "bytes": 160416,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/xahk/P_AFRTcrCxuCHeTUnLkW959gYElQKmFLeRluKTPSCN1pfj6_"
+      },
+      {
+        "bytes": 160514,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/xahk/P_AFRTcrCxuCHeTUnLkW9JdhYElQKmFLeRluKTPSCN1pfj6_"
+      },
+      {
+        "bytes": 1897,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/guarantee-4404c2ee1cd12452.js"
+      },
+      {
+        "bytes": 10074,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/contact-eba59fab0c2af66a.js"
+      },
+      {
+        "bytes": 2798,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/testimonials-6754e252b255c21a.js"
+      },
+      {
+        "bytes": 2327,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/forgot-password-a70d839da83742eb.js"
+      },
+      {
+        "bytes": 22067,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/9594-a14119f553ac2c06.js"
+      },
+      {
+        "bytes": 13923,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/1529-267c6b3b0dfd11c3.js"
+      },
+      {
+        "bytes": 688,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/privacy-4dd6b2d821798f49.js"
+      },
+      {
+        "bytes": 2085,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/scholarships-22d9d9269a66941e.js"
+      },
+      {
+        "bytes": 16912,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/2831-5c558c03e9804d5a.js"
+      },
+      {
+        "bytes": 1425,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/legal-76d71a610d9963ec.js"
+      },
+      {
+        "bytes": 2051,
+        "type": "link",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/about-a86ec9ef08ad6e83.js"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/contact-eba59fab0c2af66a.js"
+      },
+      {
+        "bytes": 1737,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/static/css/eb04e227689fc3e3.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://analytics.tiktok.com/i18n/pixel/events.js"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/guarantee-4404c2ee1cd12452.js"
+      },
+      {
+        "bytes": 1273,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/static/css/4a41c2ed40619b8a.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/testimonials-6754e252b255c21a.js"
+      },
+      {
+        "bytes": 1379,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/static/css/e1ed84f899b7f26b.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/forgot-password-a70d839da83742eb.js"
+      },
+      {
+        "bytes": 1370,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/static/css/aa53845b847605be.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/scholarships-22d9d9269a66941e.js"
+      },
+      {
+        "bytes": 1401,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/static/css/9bbf694ee19815d7.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/about-a86ec9ef08ad6e83.js"
+      },
+      {
+        "bytes": 1270,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/static/css/23fa8987f15d8807.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/2831-5c558c03e9804d5a.js"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/legal-76d71a610d9963ec.js"
+      },
+      {
+        "bytes": 1150,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/static/css/d399672cd181ccb4.css"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/9594-a14119f553ac2c06.js"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/1529-267c6b3b0dfd11c3.js"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.adaptedmind.com/_next/static/chunks/pages/info/privacy-4dd6b2d821798f49.js"
+      },
+      {
+        "bytes": 1188,
+        "type": "fetch",
+        "url": "https://www.adaptedmind.com/_next/static/css/900ca469f041204d.css"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://analytics.google.com/g/collect"
+      },
+      {
+        "bytes": 0,
+        "type": "beacon",
+        "url": "https://stats.g.doubleclick.net/g/collect"
+      },
+      {
+        "bytes": 342,
+        "type": "img",
+        "url": "https://www.google.co.in/ads/ga-audiences"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://analytics.google.com/g/collect"
+      },
+      {
+        "bytes": 3385,
+        "type": "script",
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/801618596/"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://www.google.com/rmkt/collect/801618596/"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://www.google.com/ccm/collect"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://ad.doubleclick.net/ccm/s/collect"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://www.google-analytics.com/analytics.js"
+      },
+      {
+        "bytes": 3398,
+        "type": "script",
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/801618617/"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://www.google.com/rmkt/collect/801618617/"
+      },
+      {
+        "bytes": 0,
+        "type": "fetch",
+        "url": "https://www.google.com/ccm/collect"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MTUyMzg1YjAxOQ.js"
+      },
+      {
+        "bytes": 342,
+        "type": "img",
+        "url": "https://www.google.com/pagead/1p-user-list/801618596/"
+      },
+      {
+        "bytes": 342,
+        "type": "img",
+        "url": "https://www.google.co.in/pagead/1p-user-list/801618596/"
+      },
+      {
+        "bytes": 342,
+        "type": "img",
+        "url": "https://www.google.com/pagead/1p-user-list/801618617/"
+      },
+      {
+        "bytes": 342,
+        "type": "img",
+        "url": "https://www.google.co.in/pagead/1p-user-list/801618617/"
+      },
+      {
+        "bytes": 0,
+        "type": "script",
+        "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_f7846436.js"
+      },
+      {
+        "bytes": 0,
+        "type": "beacon",
+        "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6"
+      },
+      {
+        "bytes": 0,
+        "type": "beacon",
+        "url": "https://analytics.tiktok.com/api/v2/pixel"
+      },
+      {
+        "bytes": 35327,
+        "type": "script",
+        "url": "https://js-agent.newrelic.com/nr-spa-1.324.1.min.js"
+      },
+      {
+        "bytes": 300,
+        "type": "xmlhttprequest",
+        "url": "https://www.adaptedmind.com/cdn-cgi/rum"
+      },
+      {
+        "bytes": 0,
+        "type": "img",
+        "url": "https://www.googletagmanager.com/a"
+      },
+      {
+        "bytes": 5990,
+        "type": "other",
+        "url": "https://www.adaptedmind.com/favicon.ico"
+      },
+      {
+        "bytes": 481,
+        "type": "xmlhttprequest",
+        "url": "https://bam.nr-data.net/browser/connect/2/955f49e3ed"
+      },
+      {
+        "bytes": 0,
+        "type": "xmlhttprequest",
+        "url": "https://bam.nr-data.net/browser/blobs"
+      },
+      {
+        "bytes": 324,
+        "type": "xmlhttprequest",
+        "url": "https://bam.nr-data.net/rum/2/955f49e3ed"
+      },
+      {
+        "bytes": 0,
+        "type": "xmlhttprequest",
+        "url": "https://bam.nr-data.net/events/1/955f49e3ed"
+      },
+      {
+        "bytes": 0,
+        "type": "xmlhttprequest",
+        "url": "https://bam.nr-data.net/jserrors/1/955f49e3ed"
+      },
+      {
+        "bytes": 0,
+        "type": "xmlhttprequest",
+        "url": "https://bam.nr-data.net/events/1/955f49e3ed"
+      },
+      {
+        "bytes": 0,
+        "type": "xmlhttprequest",
+        "url": "https://bam.nr-data.net/events/1/955f49e3ed"
+      },
+      {
+        "bytes": 0,
+        "type": "xmlhttprequest",
+        "url": "https://bam.nr-data.net/browser/blobs"
+      },
+      {
+        "bytes": 0,
+        "type": "css",
+        "url": "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/plato/topnav/icon_hamburger.svg"
+      }
+    ],
+    "scripts": [
+      "https://analytics.tiktok.com/i18n/pixel/static/identify_f7846436.js",
+      "https://analytics.tiktok.com/i18n/pixel/static/main.MTUyMzg1YjAxOQ.js",
+      "https://www.google-analytics.com/analytics.js",
+      "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D5EPE4BC77U4SF97DLC0&lib=ttq",
+      "https://www.adaptedmind.com/xahk/P_AFRTcrCxuCHeTUnLkW9JdhYElQKmFLeRluKTPSCN1pfj6_",
+      "https://www.adaptedmind.com/xahk/P_AFRTcrCxuCHeTUnLkW959gYElQKmFLeRluKTPSCN1pfj6_",
+      "https://www.adaptedmind.com/xahk/P_AFRTcrHw2CFOPVmL8X8pR7dwxLbz8OOAp3eTqDW4ljJws-vw",
+      "https://www.adaptedmind.com/xahk/P_AFRTcrDWH-c4TV598WgOwGYElQKmFLeRluKTPSCN1pfj6_",
+      "https://www.googletagmanager.com/gtag/js?id=AW-1015658707&gtg_health=1",
+      "https://www.adaptedmind.com/xahk/",
+      "https://cdn.cookielaw.org/consent/812b1c8d-47ed-4442-90db-4eac46b7126d/OtAutoBlock.js",
+      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "https://www.adaptedmind.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+      "https://www.adaptedmind.com/_next/static/chunks/webpack-d3ab72e71fc65009.js",
+      "https://www.adaptedmind.com/_next/static/chunks/framework-66ffbd0463589e3b.js",
+      "https://www.adaptedmind.com/_next/static/chunks/main-c4a700cbbca718b0.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/_app-2c254abf22ab878b.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/login-43164988bde4d345.js",
+      "https://www.adaptedmind.com/_next/static/f400d1e0f728d56d61ec3e0271378cfd64cbad83/_buildManifest.js",
+      "https://www.adaptedmind.com/_next/static/f400d1e0f728d56d61ec3e0271378cfd64cbad83/_ssgManifest.js",
+      "https://cdn.cookielaw.org/scripttemplates/202610.1.0/otBannerSdk.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-QVP0MW8BJP",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-W6B2JDHS",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/801618596/?random=1795429231833&cv=11&fst=1795429231833&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45892e6bh1z8d_AW-801618596za20czb9115932451zd9115932451xecxf4&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938465~115938469~120385423~120469145~120469153~121246026~121246034~123322201~123785232&u_w=800&u_h=600&url=https%3A%2F%2Fwww.adaptedmind.com%2Flogin&rcb=2&frm=0&tiba=AdaptedMind&did=dY2E1Nz%2CdYWJhMj&gdid=dY2E1Nz.dYWJhMj.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=781068529.1795429232&uaa=x86&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.80%7CChromium%3B157.0.8103.80&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&_tu=CA&gtb=2&data=event%3Dgtag.config&gap.gtb=2&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/801618617/?random=1795429231987&cv=11&fst=1795429231987&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45892e6bh1z8d_AW-801618617za20czb9115932451zd9115932451xecxf4&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938465~115938469~120385423~120469145~120469153~121246026~121246034~123322201&u_w=800&u_h=600&url=https%3A%2F%2Fwww.adaptedmind.com%2Flogin&rcb=13&frm=0&tiba=AdaptedMind&did=dY2E1Nz%2CdYWJhMj&gdid=dY2E1Nz.dYWJhMj.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=781068529.1795429232&uaa=x86&uab=64&uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.80%7CChromium%3B157.0.8103.80&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&_tu=CA&gtb=2&data=event%3Dgtag.config&gap.gtb=2&ept=9&rfmt=3&fmt=4",
+      "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/info/contact-eba59fab0c2af66a.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/info/guarantee-4404c2ee1cd12452.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/info/testimonials-6754e252b255c21a.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/forgot-password-a70d839da83742eb.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/info/scholarships-22d9d9269a66941e.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/info/about-a86ec9ef08ad6e83.js",
+      "https://www.adaptedmind.com/_next/static/chunks/2831-5c558c03e9804d5a.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/info/legal-76d71a610d9963ec.js",
+      "https://www.adaptedmind.com/_next/static/chunks/9594-a14119f553ac2c06.js",
+      "https://www.adaptedmind.com/_next/static/chunks/1529-267c6b3b0dfd11c3.js",
+      "https://www.adaptedmind.com/_next/static/chunks/pages/info/privacy-4dd6b2d821798f49.js"
+    ],
+    "stylesheets": [
+      "https://www.adaptedmind.com/_next/static/css/5d10534b99447693.css",
+      "https://www.adaptedmind.com/_next/static/css/2a67169a01422410.css"
+    ]
+  },
+  "breakpoints": [
+    {
+      "count": 1,
+      "px": 400,
+      "query": "min-width 400px"
+    },
+    {
+      "count": 1,
+      "px": 425,
+      "query": "max-width 425px"
+    },
+    {
+      "count": 1,
+      "px": 425,
+      "query": "min-width 425px"
+    },
+    {
+      "count": 2,
+      "px": 426,
+      "query": "min-width 426px"
+    },
+    {
+      "count": 3,
+      "px": 500,
+      "query": "max-width 500px"
+    },
+    {
+      "count": 1,
+      "px": 530,
+      "query": "max-width 530px"
+    },
+    {
+      "count": 3,
+      "px": 550,
+      "query": "min-width 550px"
+    },
+    {
+      "count": 2,
+      "px": 550,
+      "query": "max-width 550px"
+    },
+    {
+      "count": 10,
+      "px": 576,
+      "query": "min-width 576px"
+    },
+    {
+      "count": 5,
+      "px": 576,
+      "query": "max-width 576px"
+    },
+    {
+      "count": 2,
+      "px": 600,
+      "query": "max-width 600px"
+    },
+    {
+      "count": 1,
+      "px": 680,
+      "query": "max-width 680px"
+    },
+    {
+      "count": 3,
+      "px": 767,
+      "query": "min-width 767px"
+    },
+    {
+      "count": 9,
+      "px": 768,
+      "query": "min-width 768px"
+    },
+    {
+      "count": 5,
+      "px": 768,
+      "query": "max-width 768px"
+    },
+    {
+      "count": 1,
+      "px": 769,
+      "query": "min-width 769px"
+    },
+    {
+      "count": 1,
+      "px": 890,
+      "query": "min-width 890px"
+    },
+    {
+      "count": 3,
+      "px": 896,
+      "query": "max-width 896px"
+    },
+    {
+      "count": 1,
+      "px": 897,
+      "query": "min-width 897px"
+    },
+    {
+      "count": 2,
+      "px": 991,
+      "query": "max-width 991px"
+    },
+    {
+      "count": 12,
+      "px": 992,
+      "query": "min-width 992px"
+    },
+    {
+      "count": 5,
+      "px": 992,
+      "query": "max-width 992px"
+    },
+    {
+      "count": 1,
+      "px": 1023,
+      "query": "max-width 1023px"
+    },
+    {
+      "count": 1,
+      "px": 1024,
+      "query": "min-width 1024px"
+    }
+  ],
+  "design": {
+    "backgrounds": [
+      {
+        "count": 4,
+        "value": "#ffffff"
+      },
+      {
+        "count": 2,
+        "value": "#f1693c"
+      },
+      {
+        "count": 1,
+        "value": "#62c3ca"
+      },
+      {
+        "count": 1,
+        "value": "#eeeeee"
+      },
+      {
+        "count": 1,
+        "value": "#007888d9"
+      },
+      {
+        "count": 1,
+        "value": "#fffffff2"
+      }
+    ],
+    "css_variables": {
+      "--AMB-Text-Heading": "#203ba4",
+      "--UP-AMBright-BTN-Primary-BG": "linear-gradient(180deg,#25e900 16.67%,#0b9515 89.06%)",
+      "--UP-AMBright-BTN-Secondary-BG": "linear-gradient(180deg,#80d9ff,#54b1f4)",
+      "--UP-AMBright-BTN-Secondary-BG-Disabled": "linear-gradient(0deg,#636363 1.52%,#a4a4a4 93.24%)",
+      "--UP-AMBright-MDL-BG": "#fffffe",
+      "--UP-AMBright-Primary-DS": "0 0 20px rgba(0,45,94,0.4)",
+      "--UP-AMBright-Secondary-DS": "0px 0px 6px 0px rgba(0,45,94,0.4)",
+      "--UP-AMBright-TXT-Default-Color": "#005fd2",
+      "--UP-Default-Font-Family": "Baloo2,sans-serif",
+      "--UP-learning-container-max-height": "39.375vw",
+      "--animation-answer-correct-text": "answerCorrectText 5s cubic-bezier(0.6,0.17,0.64,0.99) 0s forwards",
+      "--animation-answer-incorrect-text": "answerIncorrectText 1s cubic-bezier(0.6,0.17,0.64,0.99) 0s forwards",
+      "--animation-arrow-bobbing-down": "arrowBobbingDown 3s ease-in-out 0s infinite",
+      "--animation-arrow-bobbing-side": "arrowBobbingSide 3s ease-in-out 0s infinite",
+      "--animation-bobbing-up-down-kit": "bobbingUpDown 3s ease-in-out infinite",
+      "--animation-bobbing-up-down-small-kit": "bobbingUpDownSmall 3s ease-in-out infinite",
+      "--animation-click-expand": "clickExpand",
+      "--animation-click-expand-kit": "clickExpand 0.5s ease-in-out",
+      "--animation-expand": "expand",
+      "--animation-fun-expand": "funExpand",
+      "--animation-fun-expand-kit": "funExpand 2s ease-in-out infinite",
+      "--animation-fun-expand-small": "funExpandSmall",
+      "--animation-fun-expand-small-kit": "funExpandSmall 2s infinite ease-in-out",
+      "--animation-fun-expand-smaller": "funExpandSmaller",
+      "--animation-fun-expand-smaller-kit": "funExpandSmaller 2.5s infinite ease-in-out",
+      "--animation-hook-sway-kit": "hookSway 5s ease-in-out 0s infinite",
+      "--announcement-magenta": "#a20175",
+      "--announcement-text-color": "var(--announcement-magenta)",
+      "--announcement-text-shadow": "var(--white)",
+      "--answer-text-color": "#f2788f",
+      "--app-font-family": "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+      "--app-full-height": "calc(100vh - var(--app-topbar-full-height))",
+      "--app-mobile-height": "calc(100vh - var(--app-topbar-mobile-height))",
+      "--app-topbar-full-height": "73px",
+      "--app-topbar-mobile-height": "40px",
+      "--background-level-1": "#78c2f8",
+      "--background-level-10": "#03557f",
+      "--background-level-11": "#f3e0b7",
+      "--background-level-12": "#519eee",
+      "--background-level-13": "#9e2a08",
+      "--background-level-14": "#2d88fc",
+      "--background-level-15": "#1d56c5",
+      "--background-level-16": "#2d88fc",
+      "--background-level-17": "linear-gradient(90deg,#cba711,#d4af0d)",
+      "--background-level-18": "linear-gradient(90deg,#cba711,#d4af0d)",
+      "--background-level-19": "linear-gradient(90deg,#cba711,#d4af0d)",
+      "--background-level-2": "#78c2f8",
+      "--background-level-20": "linear-gradient(90deg,#cba711,#d4af0d)",
+      "--background-level-21": "linear-gradient(90deg,#cba711,#d4af0d)",
+      "--background-level-22": "#214e2a",
+      "--background-level-23": "#bc7300",
+      "--background-level-24": "#005aff",
+      "--background-level-25": "#10cb40",
+      "--background-level-26": "#237624",
+      "--background-level-27": "#237624",
+      "--background-level-28": "#237624",
+      "--background-level-29": "#f07a00",
+      "--background-level-3": "#e7af17",
+      "--background-level-30": "#bc7300",
+      "--background-level-31": "#bc7300",
+      "--background-level-32": "#ffffff",
+      "--background-level-33": "#ffffff",
+      "--background-level-34": "#ffffff",
+      "--background-level-35": "#ffffff",
+      "--background-level-36": "#ffffff",
+      "--background-level-4": "#dbdbd7",
+      "--background-level-5": "#dbdbd7",
+      "--background-level-6": "#2d88fc",
+      "--background-level-7": "#87effc",
+      "--background-level-8": "#c56a01",
+      "--background-level-9": "#5fadbc",
+      "--background-login-page": "rgba(255,255,255,0.95)",
+      "--background-map-1": "#2e89fc",
+      "--background-map-2": "linear-gradient(90deg,#fee269,#e9ac1b,#be6709)",
+      "--background-map-3": "#6d8509",
+      "--background-map-4": "#ffffff",
+      "--black": "#000000",
+      "--black-opacity": "rgba(0,0,0,0.5)",
+      "--bs-black": "#000",
+      "--bs-black-rgb": "0,0,0",
+      "--bs-blue": "#0d6efd",
+      "--bs-body-bg": "#fff",
+      "--bs-body-bg-rgb": "255,255,255",
+      "--bs-body-color": "#212529",
+      "--bs-body-color-rgb": "33,37,41",
+      "--bs-body-font-family": "var(--bs-font-sans-serif)",
+      "--bs-body-font-size": "1rem",
+      "--bs-body-font-weight": "400",
+      "--bs-body-line-height": "1.5",
+      "--bs-border-color": "#dee2e6",
+      "--bs-border-color-translucent": "rgba(0,0,0,0.175)",
+      "--bs-border-radius": "0.375rem",
+      "--bs-border-radius-2xl": "var(--bs-border-radius-xxl)",
+      "--bs-border-radius-lg": "0.5rem",
+      "--bs-border-radius-pill": "50rem",
+      "--bs-border-radius-sm": "0.25rem",
+      "--bs-border-radius-xl": "1rem",
+      "--bs-border-radius-xxl": "2rem",
+      "--bs-border-style": "solid",
+      "--bs-border-width": "1px",
+      "--bs-box-shadow": "0 0.5rem 1rem rgba(0,0,0,0.15)",
+      "--bs-box-shadow-inset": "inset 0 1px 2px rgba(0,0,0,0.075)",
+      "--bs-box-shadow-lg": "0 1rem 3rem rgba(0,0,0,0.175)",
+      "--bs-box-shadow-sm": "0 0.125rem 0.25rem rgba(0,0,0,0.075)",
+      "--bs-breakpoint-lg": "992px",
+      "--bs-breakpoint-md": "768px",
+      "--bs-breakpoint-sm": "576px",
+      "--bs-breakpoint-xl": "1200px",
+      "--bs-breakpoint-xs": "0",
+      "--bs-breakpoint-xxl": "1400px",
+      "--bs-btn-close-filter": "",
+      "--bs-carousel-caption-color": "#fff",
+      "--bs-carousel-control-icon-filter": "",
+      "--bs-carousel-indicator-active-bg": "#fff",
+      "--bs-code-color": "#d63384",
+      "--bs-cyan": "#0dcaf0",
+      "--bs-danger": "#dc3545",
+      "--bs-danger-bg-subtle": "#f8d7da",
+      "--bs-danger-border-subtle": "#f1aeb5",
+      "--bs-danger-rgb": "220,53,69",
+      "--bs-danger-text-emphasis": "#58151c",
+      "--bs-dark": "#212529",
+      "--bs-dark-bg-subtle": "#ced4da",
+      "--bs-dark-border-subtle": "#adb5bd",
+      "--bs-dark-rgb": "33,37,41",
+      "--bs-dark-text-emphasis": "#495057",
+      "--bs-emphasis-color": "#000",
+      "--bs-emphasis-color-rgb": "0,0,0",
+      "--bs-focus-ring-color": "rgba(13,110,253,0.25)",
+      "--bs-focus-ring-opacity": "0.25",
+      "--bs-focus-ring-width": "0.25rem",
+      "--bs-font-monospace": "SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+      "--bs-font-sans-serif": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color E",
+      "--bs-form-invalid-border-color": "#dc3545",
+      "--bs-form-invalid-color": "#dc3545",
+      "--bs-form-valid-border-color": "#198754",
+      "--bs-form-valid-color": "#198754",
+      "--bs-gradient": "linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0))",
+      "--bs-gray": "#6c757d",
+      "--bs-gray-100": "#f8f9fa",
+      "--bs-gray-200": "#e9ecef",
+      "--bs-gray-300": "#dee2e6",
+      "--bs-gray-400": "#ced4da",
+      "--bs-gray-500": "#adb5bd",
+      "--bs-gray-600": "#6c757d",
+      "--bs-gray-700": "#495057",
+      "--bs-gray-800": "#343a40",
+      "--bs-gray-900": "#212529",
+      "--bs-gray-dark": "#343a40",
+      "--bs-green": "#198754",
+      "--bs-heading-color": "inherit",
+      "--bs-highlight-bg": "#fff3cd",
+      "--bs-highlight-color": "#212529",
+      "--bs-indigo": "#6610f2",
+      "--bs-info": "#0dcaf0",
+      "--bs-info-bg-subtle": "#cff4fc",
+      "--bs-info-border-subtle": "#9eeaf9",
+      "--bs-info-rgb": "13,202,240",
+      "--bs-info-text-emphasis": "#055160",
+      "--bs-light": "#f8f9fa",
+      "--bs-light-bg-subtle": "#fcfcfd",
+      "--bs-light-border-subtle": "#e9ecef",
+      "--bs-light-rgb": "248,249,250",
+      "--bs-light-text-emphasis": "#495057",
+      "--bs-link-color": "#0d6efd",
+      "--bs-link-color-rgb": "13,110,253",
+      "--bs-link-decoration": "underline",
+      "--bs-link-hover-color": "#0a58ca",
+      "--bs-link-hover-color-rgb": "10,88,202",
+      "--bs-orange": "#fd7e14",
+      "--bs-pink": "#d63384",
+      "--bs-primary": "#0d6efd",
+      "--bs-primary-bg-subtle": "#cfe2ff",
+      "--bs-primary-border-subtle": "#9ec5fe",
+      "--bs-primary-rgb": "13,110,253",
+      "--bs-primary-text-emphasis": "#052c65",
+      "--bs-purple": "#6f42c1",
+      "--bs-red": "#dc3545",
+      "--bs-secondary": "#6c757d",
+      "--bs-secondary-bg": "#e9ecef",
+      "--bs-secondary-bg-rgb": "233,236,239",
+      "--bs-secondary-bg-subtle": "#e2e3e5",
+      "--bs-secondary-border-subtle": "#c4c8cb",
+      "--bs-secondary-color": "rgba(33,37,41,0.75)",
+      "--bs-secondary-color-rgb": "33,37,41",
+      "--bs-secondary-rgb": "108,117,125",
+      "--bs-secondary-text-emphasis": "#2b2f32",
+      "--bs-success": "#198754",
+      "--bs-success-bg-subtle": "#d1e7dd",
+      "--bs-success-border-subtle": "#a3cfbb",
+      "--bs-success-rgb": "25,135,84",
+      "--bs-success-text-emphasis": "#0a3622",
+      "--bs-teal": "#20c997",
+      "--bs-tertiary-bg": "#f8f9fa",
+      "--bs-tertiary-bg-rgb": "248,249,250",
+      "--bs-tertiary-color": "rgba(33,37,41,0.5)",
+      "--bs-tertiary-color-rgb": "33,37,41",
+      "--bs-warning": "#ffc107",
+      "--bs-warning-bg-subtle": "#fff3cd",
+      "--bs-warning-border-subtle": "#ffe69c",
+      "--bs-warning-rgb": "255,193,7",
+      "--bs-warning-text-emphasis": "#664d03",
+      "--bs-white": "#fff",
+      "--bs-white-rgb": "255,255,255",
+      "--bs-yellow": "#ffc107",
+      "--button-font-family": "\"futura\",sans-serif",
+      "--clr-accent-000": "#ffffff",
+      "--clr-accent-100": "#bdd5d6",
+      "--clr-accent-200": "#a6a6a6",
+      "--clr-accent-300": "#f1693c",
+      "--clr-accent-400": "#f4f4f6",
+      "--clr-accent-500": "#6b6b6b",
+      "--clr-accent-700": "#363636",
+      "--clr-primary-100": "#66cccc",
+      "--clr-primary-400": "#0d8b9c",
+      "--correct-answer-text-color": "#5cc08a",
+      "--dark-blue": "#006494",
+      "--ff-account": "\"Poppins\",sans-serif",
+      "--ff-button": "\"Museo Sans\",\"Lucida Grande\",Arial,sans-serif",
+      "--ff-nav": "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+      "--ff-primary": "\"MuseoSans-500\",\"Lucida Grande\",Arial,sans-serif",
+      "--ff-secondary": "\"Museo Sans\",\"Lucida Grande\",Arial,sans-serif",
+      "--focus-border-radius": "8px",
+      "--focus-outline": "3px solid #fff",
+      "--focus-outline-offset": "4px",
+      "--footer-padding": "26px",
+      "--fs-body-1": "1.25rem",
+      "--fs-body-2": "1.05rem",
+      "--fs-button": "1.5rem",
+      "--fs-footer": "0.8rem",
+      "--fs-footer-page-section-title-padding": "20px",
+      "--fs-headline-1": "2.15rem",
+      "--fs-headline-2": "1.5rem",
+      "--fs-nav": "0.8rem",
+      "--fs-subtitle": "1.5rem",
+      "--fw-bold": "700",
+      "--fw-light": "300",
+      "--fw-medium": "500",
+      "--fw-semi-bold": "600",
+      "--game-button-font-family": "lemon",
+      "--game-button-text-shadow": "#00991a",
+      "--game-font-family": "lemon",
+      "--game-font-prompt": "American Typewriter",
+      "--game-input-font-family": "LuckiestGuy",
+      "--gray": "#9e9e9e",
+      "--header-text-color": "var(--dark-blue)",
+      "--login-font-family": "\"MuseoSans-500\",\"Muli\",\"Lucida Grande\",Arial,sans-serif",
+      "--modal-text-font-family": "\"futura\",sans-serif",
+      "--nav-font-family": "var(--app-font-family)",
+      "--nav-hover-color": "#146c78",
+      "--nav-menu-navy": "#646993",
+      "--primary-app-color": "#62c3ca",
+      "--primary-background-color": "#f2fcfe",
+      "--primary-button-text-color": "var(--white)",
+      "--primary-link-text-color": "var(--white)",
+      "--primary-text-color": "var(--white)",
+      "--problem-text-size": "max(1.5vw,12px)",
+      "--prompt-text-color": "#096590",
+      "--secondary-text-color": "var(--black)",
+      "--section-text-padding": "50px",
+      "--stripe-fields-font-family": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen,Ubuntu,Cantarell,\"Open Sans\",\"Helvetica Neue\",sans-serif",
+      "--topnav-height": "73px",
+      "--unified-problem-text-size": "22px",
+      "--video-height": "calc(100vw * (9 / 16))",
+      "--webview-problem-text-size": "15px",
+      "--white": "#ffffff"
+    },
+    "font_faces": [
+      {
+        "family": "lemon",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "poppins",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "poppins",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "600"
+      },
+      {
+        "family": "Lucida Grande",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "mulish",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "LuckiestGuy",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "Glyphicons Halflings",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "normal"
+      },
+      {
+        "family": "Museo Sans",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "MuseoSans-500",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "normal"
+      },
+      {
+        "family": "Baloo2",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "400 800"
+      },
+      {
+        "family": "futura",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "300"
+      },
+      {
+        "family": "futura",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "500"
+      },
+      {
+        "family": "futura",
+        "status": "unloaded",
+        "style": "normal",
+        "weight": "700"
+      }
+    ],
+    "font_sizes": [
+      {
+        "count": 11,
+        "value": "12.8px"
+      },
+      {
+        "count": 2,
+        "value": "13px"
+      },
+      {
+        "count": 1,
+        "value": "35px"
+      },
+      {
+        "count": 1,
+        "value": "20.8px"
+      },
+      {
+        "count": 1,
+        "value": "14px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 10,
+        "value": "500"
+      },
+      {
+        "count": 5,
+        "value": "700"
+      },
+      {
+        "count": 1,
+        "value": "400"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 8,
+        "value": "MuseoSans-500, \"Lucida Grande\", Arial, sans-serif"
+      },
+      {
+        "count": 4,
+        "value": "\"Helvetica Neue\", Helvetica, Arial, sans-serif"
+      },
+      {
+        "count": 2,
+        "value": "MuseoSans-500, Muli, \"Lucida Grande\", Arial, sans-serif"
+      },
+      {
+        "count": 1,
+        "value": "\"Lucida Grande\""
+      },
+      {
+        "count": 1,
+        "value": "futura, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 2,
+        "value": "1320px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 4,
+        "value": "6px"
+      },
+      {
+        "count": 3,
+        "value": "3px"
+      },
+      {
+        "count": 1,
+        "value": "8px"
+      }
+    ],
+    "shadows": [],
+    "spacing": [
+      {
+        "count": 12,
+        "value": "8px"
+      },
+      {
+        "count": 11,
+        "value": "16px"
+      },
+      {
+        "count": 9,
+        "value": "20px"
+      },
+      {
+        "count": 8,
+        "value": "10px"
+      },
+      {
+        "count": 4,
+        "value": "3px"
+      },
+      {
+        "count": 4,
+        "value": "15px"
+      },
+      {
+        "count": 2,
+        "value": "6px"
+      },
+      {
+        "count": 2,
+        "value": "4px"
+      },
+      {
+        "count": 2,
+        "value": "12px"
+      },
+      {
+        "count": 2,
+        "value": "30px"
+      },
+      {
+        "count": 2,
+        "value": "26px"
+      },
+      {
+        "count": 2,
+        "value": "-1px"
+      },
+      {
+        "count": 1,
+        "value": "100px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 9,
+        "value": "#a6a6a6"
+      },
+      {
+        "count": 4,
+        "value": "#ffffff"
+      },
+      {
+        "count": 1,
+        "value": "#555555"
+      },
+      {
+        "count": 1,
+        "value": "#000000"
+      },
+      {
+        "count": 1,
+        "value": "#428bca"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "action": "",
+      "fields": [
+        {
+          "label": "",
+          "name": "username",
+          "placeholder": "Email or username",
+          "required": false,
+          "tag": "input",
+          "type": "text"
+        },
+        {
+          "label": "",
+          "name": "password",
+          "placeholder": "Password",
+          "required": false,
+          "tag": "input",
+          "type": "password"
+        },
+        {
+          "label": "",
+          "name": "isFilled",
+          "placeholder": "",
+          "required": false,
+          "tag": "input",
+          "type": "hidden"
+        },
+        {
+          "label": "",
+          "name": "login",
+          "placeholder": "",
+          "required": false,
+          "tag": "button",
+          "type": "submit"
+        }
+      ],
+      "method": "post"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Member Login"
+    },
+    {
+      "level": 2,
+      "text": "Privacy Preference Center"
+    },
+    {
+      "level": 3,
+      "text": "Manage Consent Preferences"
+    },
+    {
+      "level": 3,
+      "text": "Cookie List"
+    }
+  ],
+  "health": {
+    "errors": [
+      {
+        "kind": "console",
+        "text": "GuestApi.updateGuest: falsy guestID {undefined}, jwt {null}, guest: Object",
+        "url": ""
+      }
+    ],
+    "failed_requests": []
+  },
+  "lang": "en",
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "h": 138,
+          "pad": [
+            8,
+            0,
+            8,
+            0
+          ],
+          "per_row": 1,
+          "tag": "nav",
+          "w": 1170,
+          "y": -32
+        },
+        {
+          "h": 42,
+          "pad": [
+            8,
+            0,
+            8,
+            0
+          ],
+          "per_row": 2,
+          "tag": "nav",
+          "w": 153,
+          "y": 16
+        },
+        {
+          "h": 52,
+          "pad": [
+            8,
+            0,
+            8,
+            0
+          ],
+          "per_row": 2,
+          "tag": "nav",
+          "w": 286,
+          "y": 11
+        },
+        {
+          "h": 122,
+          "pad": [
+            8,
+            0,
+            8,
+            0
+          ],
+          "per_row": 1,
+          "tag": "nav",
+          "w": 145,
+          "y": -24
+        },
+        {
+          "gap": 16,
+          "h": 111,
+          "pad": [
+            26,
+            0,
+            26,
+            0
+          ],
+          "per_row": 1,
+          "tag": "footer",
+          "w": 1008,
+          "y": 623
+        }
+      ],
+      "page_h": 900,
+      "page_w": 1440,
+      "type": {
+        "body": 13,
+        "h1": 35,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [
+        {
+          "h": 57,
+          "pad": [
+            8,
+            0,
+            8,
+            0
+          ],
+          "per_row": 1,
+          "tag": "nav",
+          "w": 720,
+          "y": 8
+        },
+        {
+          "gap": 16,
+          "h": 151,
+          "pad": [
+            26,
+            0,
+            26,
+            0
+          ],
+          "per_row": 3,
+          "tag": "footer",
+          "w": 538,
+          "y": 623
+        }
+      ],
+      "page_h": 900,
+      "page_w": 768,
+      "type": {
+        "body": 13,
+        "h1": 35,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 768
+    },
+    {
+      "blocks": [
+        {
+          "h": 57,
+          "pad": [
+            8,
+            0,
+            8,
+            0
+          ],
+          "per_row": 1,
+          "tag": "nav",
+          "w": 358,
+          "y": 2
+        },
+        {
+          "gap": 16,
+          "h": 231,
+          "pad": [
+            26,
+            0,
+            26,
+            0
+          ],
+          "per_row": 1,
+          "tag": "footer",
+          "w": 320,
+          "y": 610
+        }
+      ],
+      "page_h": 900,
+      "page_w": 390,
+      "type": {
+        "body": 13,
+        "h1": 35,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.adaptedmind.com/",
+      "text": ""
+    },
+    {
+      "href": "https://www.adaptedmind.com/Begin-Enrollment.html",
+      "text": "MATH"
+    },
+    {
+      "href": "https://www.adaptedmind.com/Begin-Enrollment.html",
+      "text": "READING"
+    },
+    {
+      "href": "https://www.adaptedmind.com/Begin-Enrollment.html",
+      "text": "BECOME A MEMBER"
+    },
+    {
+      "href": "https://www.adaptedmind.com/login",
+      "text": "LOG IN"
+    },
+    {
+      "href": "https://www.adaptedmind.com/forgot-password",
+      "text": "Forgot Password"
+    },
+    {
+      "href": "https://www.adaptedmind.com/info/about",
+      "text": "ABOUT"
+    },
+    {
+      "href": "https://www.adaptedmind.com/info/testimonials",
+      "text": "TESTIMONIALS"
+    },
+    {
+      "href": "https://www.adaptedmind.com/info/legal",
+      "text": "TERMS AND CONDITIONS"
+    },
+    {
+      "href": "https://www.adaptedmind.com/info/privacy",
+      "text": "PRIVACY"
+    },
+    {
+      "href": "https://www.adaptedmind.com/info/guarantee",
+      "text": "OUR GUARANTEE"
+    },
+    {
+      "href": "https://www.adaptedmind.com/info/scholarships",
+      "text": "SCHOLARSHIPS"
+    },
+    {
+      "href": "https://www.adaptedmind.com/info/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://cookiepedia.co.uk/giving-consent-to-cookies",
+      "text": "More information"
+    },
+    {
+      "href": "https://www.onetrust.com/solutions/consent-and-preferences/",
+      "text": "Powered by OneTrust Opens in a new Tab"
+    }
+  ],
+  "meta": {
+    "description": "Learning can be monsterific!",
+    "icons": [
+      "https://www.adaptedmind.com/apple-touch-icon-iphone.png",
+      "https://www.adaptedmind.com/apple-touch-icon-ipad.png",
+      "https://www.adaptedmind.com/apple-touch-icon-iphone-retina.png",
+      "https://www.adaptedmind.com/apple-touch-icon-ipad-retina.png"
+    ],
+    "og_image": "",
+    "og_title": "",
+    "theme_color": "#000000"
+  },
+  "outline": [
+    {
+      "box": {
+        "h": 138,
+        "w": 1170,
+        "x": 135,
+        "y": -32
+      },
+      "class": "navbar navbar-expand-lg navbar-light bg-custom",
+      "color": "#66cccc",
+      "depth": 6,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "tag": "nav"
+    },
+    {
+      "box": {
+        "h": 41,
+        "w": 174,
+        "x": 135,
+        "y": 16
+      },
+      "class": "BootstrapTopbarLoggedOut_brandText__GjUip nav-link",
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "27.2px 400",
+      "href": "https://www.adaptedmind.com/",
+      "tag": "a"
+    },
+    {
+      "alt": "Learn more about AdaptedMind",
+      "box": {
+        "h": 26,
+        "w": 174,
+        "x": 135,
+        "y": 25
+      },
+      "class": "BootstrapTopbarLoggedOut_logoImg__23s0A",
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "27.2px 400",
+      "src": "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/images/logo-white.png",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 42,
+        "w": 153,
+        "x": 324,
+        "y": 16
+      },
+      "class": "BootstrapTopbarLoggedOut_hideOnMobile__C_7YA navbar navbar-expand navbar-light",
+      "color": "#66cccc",
+      "depth": 7,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "tag": "nav"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 58,
+        "x": 329,
+        "y": 24
+      },
+      "class": "BootstrapTopbarLoggedOut_navLink__h4AOQ nav-link",
+      "color": "#ffffff",
+      "depth": 10,
+      "font": "13px 700",
+      "href": "https://www.adaptedmind.com/Begin-Enrollment.html",
+      "tag": "a",
+      "text": "MATH"
+    },
+    {
+      "box": {
+        "h": 26,
+        "w": 85,
+        "x": 392,
+        "y": 24
+      },
+      "class": "BootstrapTopbarLoggedOut_navLink__h4AOQ nav-link",
+      "color": "#ffffff",
+      "depth": 10,
+      "font": "13px 700",
+      "href": "https://www.adaptedmind.com/Begin-Enrollment.html",
+      "tag": "a",
+      "text": "READING"
+    },
+    {
+      "box": {
+        "h": 52,
+        "w": 286,
+        "x": 1019,
+        "y": 11
+      },
+      "class": "justify-content-end BootstrapTopbarLoggedOut_topButtons__Empox navbar navbar-expand navbar-light",
+      "color": "#66cccc",
+      "depth": 7,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "tag": "nav"
+    },
+    {
+      "background": "#f1693c",
+      "box": {
+        "h": 36,
+        "w": 188,
+        "x": 1019,
+        "y": 19
+      },
+      "class": "BootstrapTopbarLoggedOut_becomeButton__RFcay btn btn-primary btn-sm",
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "12.8px 700",
+      "href": "https://www.adaptedmind.com/Begin-Enrollment.html",
+      "role": "button",
+      "tag": "a",
+      "text": "BECOME A MEMBER"
+    },
+    {
+      "background": "#eeeeee",
+      "box": {
+        "h": 36,
+        "w": 92,
+        "x": 1213,
+        "y": 19
+      },
+      "class": "BootstrapTopbarLoggedOut_loginButton__3STW_ btn btn-default btn-sm",
+      "color": "#555555",
+      "depth": 9,
+      "font": "12.8px 700",
+      "href": "https://www.adaptedmind.com/login",
+      "role": "button",
+      "tag": "a",
+      "text": "LOG IN"
+    },
+    {
+      "box": {
+        "h": 122,
+        "w": 145,
+        "x": 477,
+        "y": -24
+      },
+      "class": "BootstrapTopbarLoggedOut_monsterNav__eE3YZ ml-auto mr-auto navbar navbar-expand navbar-light",
+      "color": "#66cccc",
+      "depth": 7,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "tag": "nav"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 90,
+        "w": 145,
+        "x": 622,
+        "y": 0
+      },
+      "class": "BootstrapTopbarLoggedOut_monsterImg__jhihF",
+      "color": "#66cccc",
+      "depth": 9,
+      "font": "16px 400",
+      "src": "https://assets.adaptedmind.com/vod/adaptedmind.adaptedmind/images/monster-logo.png",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 444,
+        "x": 498,
+        "y": 228
+      },
+      "class": "LoginPage_title__bhlXy",
+      "color": "#000000",
+      "depth": 8,
+      "font": "35px 500",
+      "tag": "h1",
+      "text": "Member Login"
+    },
+    {
+      "box": {
+        "h": 206,
+        "w": 444,
+        "x": 498,
+        "y": 284
+      },
+      "color": "#212529",
+      "depth": 8,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "form"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 444,
+        "x": 498,
+        "y": 284
+      },
+      "class": "form-control LoginPage_formInput__Pe5DZ",
+      "color": "#555555",
+      "depth": 10,
+      "font": "18px 400",
+      "id": "loginUsername",
+      "name": "username",
+      "placeholder": "Email or username",
+      "tag": "input",
+      "type": "text"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 444,
+        "x": 498,
+        "y": 345
+      },
+      "class": "form-control LoginPage_formInput__Pe5DZ",
+      "color": "#555555",
+      "depth": 10,
+      "font": "18px 400",
+      "id": "loginPassword",
+      "name": "password",
+      "placeholder": "Password",
+      "tag": "input",
+      "type": "password"
+    },
+    {
+      "background": "#f1693c",
+      "box": {
+        "h": 50,
+        "w": 444,
+        "x": 498,
+        "y": 406
+      },
+      "class": "LoginPage_button__47KKw LoginPage_buttonPrimary__LTpo8",
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "20.8px 700",
+      "tag": "button",
+      "text": "Log in"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 109,
+        "x": 665,
+        "y": 470
+      },
+      "color": "#428bca",
+      "depth": 10,
+      "font": "14px 400",
+      "href": "https://www.adaptedmind.com/forgot-password",
+      "tag": "a",
+      "text": "Forgot Password"
+    },
+    {
+      "box": {
+        "h": 111,
+        "w": 1008,
+        "x": 216,
+        "y": 623
+      },
+      "class": "LandingFooter_footerContainer__u6pJp LandingFooter_container__M9kbs",
+      "color": "#212529",
+      "depth": 3,
+      "display": "flex",
+      "flex": "row",
+      "font": "16px 400",
+      "tag": "footer"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 165,
+        "x": 216,
+        "y": 689
+      },
+      "class": "LandingFooter_copyRight__Gyfis",
+      "color": "#a6a6a6",
+      "depth": 4,
+      "font": "12.8px 500",
+      "tag": "p",
+      "text": "Copyright 2026 AdaptedMind"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 44,
+        "x": 216,
+        "y": 654
+      },
+      "class": "LandingFooter_footerListItem__daKbT",
+      "color": "#a6a6a6",
+      "depth": 6,
+      "font": "12.8px 500",
+      "href": "https://www.adaptedmind.com/info/about",
+      "tag": "a",
+      "text": "ABOUT"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 90,
+        "x": 276,
+        "y": 654
+      },
+      "class": "LandingFooter_footerListItem__daKbT",
+      "color": "#a6a6a6",
+      "depth": 6,
+      "font": "12.8px 500",
+      "href": "https://www.adaptedmind.com/info/testimonials",
+      "tag": "a",
+      "text": "TESTIMONIALS"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 156,
+        "x": 382,
+        "y": 654
+      },
+      "class": "LandingFooter_footerListItem__daKbT",
+      "color": "#a6a6a6",
+      "depth": 6,
+      "font": "12.8px 500",
+      "href": "https://www.adaptedmind.com/info/legal",
+      "tag": "a",
+      "text": "TERMS AND CONDITIONS"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 52,
+        "x": 554,
+        "y": 654
+      },
+      "class": "LandingFooter_footerListItem__daKbT",
+      "color": "#a6a6a6",
+      "depth": 6,
+      "font": "12.8px 500",
+      "href": "https://www.adaptedmind.com/info/privacy",
+      "tag": "a",
+      "text": "PRIVACY"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 107,
+        "x": 622,
+        "y": 654
+      },
+      "class": "LandingFooter_footerListItem__daKbT",
+      "color": "#a6a6a6",
+      "depth": 6,
+      "font": "12.8px 500",
+      "href": "https://www.adaptedmind.com/info/guarantee",
+      "tag": "a",
+      "text": "OUR GUARANTEE"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 95,
+        "x": 744,
+        "y": 654
+      },
+      "class": "LandingFooter_footerListItem__daKbT",
+      "color": "#a6a6a6",
+      "depth": 6,
+      "font": "12.8px 500",
+      "href": "https://www.adaptedmind.com/info/scholarships",
+      "tag": "a",
+      "text": "SCHOLARSHIPS"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 81,
+        "x": 855,
+        "y": 654
+      },
+      "class": "LandingFooter_footerListItem__daKbT",
+      "color": "#a6a6a6",
+      "depth": 6,
+      "font": "12.8px 500",
+      "href": "https://www.adaptedmind.com/info/contact",
+      "tag": "a",
+      "text": "CONTACT US"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 113,
+        "x": 952,
+        "y": 652
+      },
+      "class": "LandingFooter_footerListButton__tGIJ_",
+      "color": "#a6a6a6",
+      "depth": 6,
+      "font": "12.8px 500",
+      "tag": "button",
+      "text": "COOKIE SETTINGS"
+    },
+    {
+      "box": {
+        "h": 1,
+        "w": 1,
+        "x": -1,
+        "y": -1
+      },
+      "color": "#212529",
+      "depth": 3,
+      "font": "16px 400",
+      "id": "__next-route-announcer__",
+      "role": "alert",
+      "tag": "p"
+    }
+  ],
+  "page": {
+    "h": 900,
+    "w": 1440
+  },
+  "text": "MATH READING BECOME A MEMBER LOG IN Member Login Log in Forgot Password Copyright 2026 AdaptedMind ABOUT TESTIMONIALS TERMS AND CONDITIONS PRIVACY OUR GUARANTEE SCHOLARSHIPS CONTACT US COOKIE SETTINGS",
+  "title": "AdaptedMind",
+  "unreadable_stylesheets": 0,
+  "url": "https://www.adaptedmind.com/login",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}

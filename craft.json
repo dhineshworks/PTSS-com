@@ -1,0 +1,1092 @@
+{
+  "version": 5,
+  "name": "adaptedmind.com",
+  "request": "You already have access to my browser, and the reference website is currently open in an existing browser tab. Identify and inspect the currently active browser tab. Do not ask me for the URL. Browse through all accessible pages and sections. Interact with menus, buttons, dropdowns, forms, and components to understand their behavior. Inspect typography, colors, spacing, images, layouts, animations, and responsive behavior. Then recreate the website as closely as possible, including all accessible pages and functionality. Do not create an inspired or simplified design. Do not skip sections or assume functionality. Follow this workflow: inspect first, plan second, build third, test fourth. The currently open website is the single source of truth. If browser access is unavailable, tell me rather than pretending to have inspected it.\n\nhttps://www.adaptedmind.com/game?from=select-student",
+  "target": {
+    "kind": "website",
+    "url": "https://www.adaptedmind.com/game?from=select-student"
+  },
+  "stack": "React + TypeScript (Vite)",
+  "status": "ready",
+  "note": "Ready: about 91% like the original, 31 of 31 claims hold.",
+  "created_ms": 1795429229549,
+  "updated_ms": 1795438926037,
+  "checks": [
+    {
+      "round": 1,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 69.15200488453317,
+      "note": "start page: 71% (1440 px: 77% alike (layout 93%, detail 60%; page height 900 vs 900 px); 768 px: 78% alike (layout 92%, detail 64%; page height 900 vs 900 px); 390 px: 60% alike (layout 75%, detail 45%; page height 900 vs 900 px); text 100% alike; structure 87% alike) | /Begin-Enrollment.html: 71% (1440 px: 98% alike (layout 99%, detail 98%; page height 900 vs 900 px); 768 px: 54% alike (layout 40%, detail 69%; page height 900 vs 900 px); 390 px: 60% alike (layout 50%, detail 71%; page height 900 vs 900 px); text 100% alike; structure 100% alike; spacing the original uses that the build doesn't: 810px) | /login: 71% (1440 px: 77% alike (layout 93%, detail 60%; page height 900 vs 900 px); 768 px: 78% alike (layout 92%, detail 64%; page height 900 vs 900 px); 390 px: 60% alike (layout 75%, detail 45%; page height 900 vs 900 px); text 100% alike; structure 87% alike) | /forgot-password: 61% (1440 px: 72% alike (layout 88%, detail 57%; page height 900 vs 900 px); 768 px: 71% alike (layout 84%, detail 57%; page height 900 vs 900 px); 390 px: 40% alike (layout 51%, detail 28%; page height 900 vs 900 px); text 100% alike; structure 86% alike; text sizes the original uses that the build doesn't: 16px) | /info/about: 71% (1440 px: 81% alike (layout 86%, detail 76%; page height 1127 vs 1097 px); 768 px: 72% alike (layout 84%, detail 60%; page height 1302 vs 1466 px); 390 px: 59% alike (layout 74%, detail 45%; page height 1834 vs 1625 px); text 100% alike; structure 85% alike; spacing the original uses that the build doesn't: -1px) | opened menus and pop-ups at 390 px: a menu 56% alike",
+      "artifacts": [
+        "checks\\round-1\\screenshot-1440.png",
+        "checks\\round-1\\screenshot-768.png",
+        "checks\\round-1\\screenshot-390.png",
+        "checks\\round-1\\routes/begin-enrollment-html\\screenshot-1440.png",
+        "checks\\round-1\\routes/begin-enrollment-html\\screenshot-768.png",
+        "checks\\round-1\\routes/begin-enrollment-html\\screenshot-390.png",
+        "checks\\round-1\\routes/login\\screenshot-1440.png",
+        "checks\\round-1\\routes/login\\screenshot-768.png",
+        "checks\\round-1\\routes/login\\screenshot-390.png",
+        "checks\\round-1\\routes/forgot-password\\screenshot-1440.png",
+        "checks\\round-1\\routes/forgot-password\\screenshot-768.png",
+        "checks\\round-1\\routes/forgot-password\\screenshot-390.png",
+        "checks\\round-1\\routes/info-about\\screenshot-1440.png",
+        "checks\\round-1\\routes/info-about\\screenshot-768.png",
+        "checks\\round-1\\routes/info-about\\screenshot-390.png"
+      ],
+      "at_ms": 1795432190964,
+      "pages": [
+        {
+          "name": "start page",
+          "dir": "",
+          "similarity": 71.4731502253881
+        },
+        {
+          "name": "/Begin-Enrollment.html",
+          "dir": "routes/begin-enrollment-html",
+          "similarity": 71.08492597215012
+        },
+        {
+          "name": "/login",
+          "dir": "routes/login",
+          "similarity": 71.4731502253881
+        },
+        {
+          "name": "/forgot-password",
+          "dir": "routes/forgot-password",
+          "similarity": 60.90876620943797
+        },
+        {
+          "name": "/info/about",
+          "dir": "routes/info-about",
+          "similarity": 70.82003179030167
+        }
+      ],
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "The start page logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "The start page loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "The start page has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/login logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/login loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/login has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/info/about loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/info/about has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "a menu opens in the build at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 76.37059722299786,
+      "note": "start page: 76% (1440 px: 78% alike (layout 94%, detail 62%; page height 900 vs 900 px); 768 px: 80% alike (layout 92%, detail 68%; page height 900 vs 900 px); 390 px: 69% alike (layout 83%, detail 55%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /Begin-Enrollment.html: 78% (1440 px: 99% alike (layout 99%, detail 98%; page height 900 vs 900 px); 768 px: 77% alike (layout 58%, detail 96%; page height 900 vs 900 px); 390 px: 60% alike (layout 30%, detail 89%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /login: 76% (1440 px: 78% alike (layout 94%, detail 62%; page height 900 vs 900 px); 768 px: 80% alike (layout 92%, detail 68%; page height 900 vs 900 px); 390 px: 69% alike (layout 83%, detail 55%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /forgot-password: 63% (1440 px: 72% alike (layout 88%, detail 57%; page height 900 vs 900 px); 768 px: 71% alike (layout 83%, detail 60%; page height 900 vs 900 px); 390 px: 44% alike (layout 53%, detail 35%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /info/about: 90% (1440 px: 96% alike (layout 98%, detail 94%; page height 1127 vs 1127 px); 768 px: 91% alike (layout 94%, detail 89%; page height 1302 vs 1435 px); 390 px: 82% alike (layout 90%, detail 73%; page height 1834 vs 1826 px); text 100% alike; structure 100% alike) | opened menus and pop-ups at 390 px: a menu 64% alike",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-1440.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-768.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-390.png",
+        "checks\\round-0\\routes/login\\screenshot-1440.png",
+        "checks\\round-0\\routes/login\\screenshot-768.png",
+        "checks\\round-0\\routes/login\\screenshot-390.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-1440.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-768.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-390.png",
+        "checks\\round-0\\routes/info-about\\screenshot-1440.png",
+        "checks\\round-0\\routes/info-about\\screenshot-768.png",
+        "checks\\round-0\\routes/info-about\\screenshot-390.png"
+      ],
+      "at_ms": 1795435456340,
+      "pages": [
+        {
+          "name": "start page",
+          "dir": "",
+          "similarity": 75.5258940528007
+        },
+        {
+          "name": "/Begin-Enrollment.html",
+          "dir": "routes/begin-enrollment-html",
+          "similarity": 78.49359508911665
+        },
+        {
+          "name": "/login",
+          "dir": "routes/login",
+          "similarity": 75.5258940528007
+        },
+        {
+          "name": "/forgot-password",
+          "dir": "routes/forgot-password",
+          "similarity": 62.55742543854561
+        },
+        {
+          "name": "/info/about",
+          "dir": "routes/info-about",
+          "similarity": 89.75017748172563
+        }
+      ],
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "The start page logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "The start page loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "The start page has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/login logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/login loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/login has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/info/about loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/info/about has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "a menu opens in the build at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 79.40196124031796,
+      "note": "start page: 75% (1440 px: 85% alike (layout 86%, detail 83%; page height 900 vs 900 px); 768 px: 79% alike (layout 80%, detail 78%; page height 900 vs 900 px); 390 px: 60% alike (layout 68%, detail 53%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /Begin-Enrollment.html: 78% (1440 px: 99% alike (layout 99%, detail 98%; page height 900 vs 900 px); 768 px: 77% alike (layout 58%, detail 96%; page height 900 vs 900 px); 390 px: 60% alike (layout 30%, detail 89%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /login: 75% (1440 px: 85% alike (layout 86%, detail 83%; page height 900 vs 900 px); 768 px: 79% alike (layout 80%, detail 78%; page height 900 vs 900 px); 390 px: 60% alike (layout 68%, detail 53%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /forgot-password: 79% (1440 px: 92% alike (layout 93%, detail 90%; page height 900 vs 900 px); 768 px: 90% alike (layout 91%, detail 89%; page height 900 vs 900 px); 390 px: 56% alike (layout 66%, detail 47%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /info/about: 90% (1440 px: 96% alike (layout 98%, detail 94%; page height 1127 vs 1127 px); 768 px: 91% alike (layout 94%, detail 89%; page height 1302 vs 1435 px); 390 px: 82% alike (layout 90%, detail 73%; page height 1834 vs 1826 px); text 100% alike; structure 100% alike) | opened menus and pop-ups at 390 px: a menu 59% alike",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-1440.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-768.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-390.png",
+        "checks\\round-0\\routes/login\\screenshot-1440.png",
+        "checks\\round-0\\routes/login\\screenshot-768.png",
+        "checks\\round-0\\routes/login\\screenshot-390.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-1440.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-768.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-390.png",
+        "checks\\round-0\\routes/info-about\\screenshot-1440.png",
+        "checks\\round-0\\routes/info-about\\screenshot-768.png",
+        "checks\\round-0\\routes/info-about\\screenshot-390.png"
+      ],
+      "at_ms": 1795436036284,
+      "pages": [
+        {
+          "name": "start page",
+          "dir": "",
+          "similarity": 74.69611745018209
+        },
+        {
+          "name": "/Begin-Enrollment.html",
+          "dir": "routes/begin-enrollment-html",
+          "similarity": 78.49359508911665
+        },
+        {
+          "name": "/login",
+          "dir": "routes/login",
+          "similarity": 74.69611745018209
+        },
+        {
+          "name": "/forgot-password",
+          "dir": "routes/forgot-password",
+          "similarity": 79.3737987303833
+        },
+        {
+          "name": "/info/about",
+          "dir": "routes/info-about",
+          "similarity": 89.75017748172563
+        }
+      ],
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "The start page logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "The start page loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "The start page has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/login logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/login loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/login has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/info/about loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/info/about has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "a menu opens in the build at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 90.52989097382012,
+      "note": "start page: 90% (1440 px: 93% alike (layout 95%, detail 92%; page height 900 vs 900 px); 768 px: 88% alike (layout 91%, detail 86%; page height 900 vs 900 px); 390 px: 88% alike (layout 97%, detail 79%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /Begin-Enrollment.html: 97% (1440 px: 99% alike (layout 99%, detail 98%; page height 900 vs 900 px); 768 px: 100% alike (layout 100%, detail 99%; page height 900 vs 900 px); 390 px: 94% alike (layout 95%, detail 92%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /login: 90% (1440 px: 93% alike (layout 95%, detail 92%; page height 900 vs 900 px); 768 px: 88% alike (layout 91%, detail 86%; page height 900 vs 900 px); 390 px: 88% alike (layout 97%, detail 79%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /forgot-password: 86% (1440 px: 92% alike (layout 93%, detail 90%; page height 900 vs 900 px); 768 px: 90% alike (layout 91%, detail 89%; page height 900 vs 900 px); 390 px: 76% alike (layout 84%, detail 68%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /info/about: 90% (1440 px: 96% alike (layout 98%, detail 94%; page height 1127 vs 1127 px); 768 px: 91% alike (layout 94%, detail 89%; page height 1302 vs 1435 px); 390 px: 82% alike (layout 90%, detail 73%; page height 1834 vs 1826 px); text 100% alike; structure 100% alike) | opened menus and pop-ups at 390 px: a menu 80% alike",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-1440.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-768.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-390.png",
+        "checks\\round-0\\routes/login\\screenshot-1440.png",
+        "checks\\round-0\\routes/login\\screenshot-768.png",
+        "checks\\round-0\\routes/login\\screenshot-390.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-1440.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-768.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-390.png",
+        "checks\\round-0\\routes/info-about\\screenshot-1440.png",
+        "checks\\round-0\\routes/info-about\\screenshot-768.png",
+        "checks\\round-0\\routes/info-about\\screenshot-390.png"
+      ],
+      "at_ms": 1795437283919,
+      "pages": [
+        {
+          "name": "start page",
+          "dir": "",
+          "similarity": 89.82200828065868
+        },
+        {
+          "name": "/Begin-Enrollment.html",
+          "dir": "routes/begin-enrollment-html",
+          "similarity": 97.28815954090337
+        },
+        {
+          "name": "/login",
+          "dir": "routes/login",
+          "similarity": 89.82200828065868
+        },
+        {
+          "name": "/forgot-password",
+          "dir": "routes/forgot-password",
+          "similarity": 85.9671012851543
+        },
+        {
+          "name": "/info/about",
+          "dir": "routes/info-about",
+          "similarity": 89.75017748172563
+        }
+      ],
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "The start page logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "The start page loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "The start page has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/login logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/login loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/login has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/info/about loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/info/about has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "a menu opens in the build at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 90.52989097382012,
+      "note": "start page: 90% (1440 px: 93% alike (layout 95%, detail 92%; page height 900 vs 900 px); 768 px: 88% alike (layout 91%, detail 86%; page height 900 vs 900 px); 390 px: 88% alike (layout 97%, detail 79%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /Begin-Enrollment.html: 97% (1440 px: 99% alike (layout 99%, detail 98%; page height 900 vs 900 px); 768 px: 100% alike (layout 100%, detail 99%; page height 900 vs 900 px); 390 px: 94% alike (layout 95%, detail 92%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /login: 90% (1440 px: 93% alike (layout 95%, detail 92%; page height 900 vs 900 px); 768 px: 88% alike (layout 91%, detail 86%; page height 900 vs 900 px); 390 px: 88% alike (layout 97%, detail 79%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /forgot-password: 86% (1440 px: 92% alike (layout 93%, detail 90%; page height 900 vs 900 px); 768 px: 90% alike (layout 91%, detail 89%; page height 900 vs 900 px); 390 px: 76% alike (layout 84%, detail 68%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /info/about: 90% (1440 px: 96% alike (layout 98%, detail 94%; page height 1127 vs 1127 px); 768 px: 91% alike (layout 94%, detail 89%; page height 1302 vs 1435 px); 390 px: 82% alike (layout 90%, detail 73%; page height 1834 vs 1826 px); text 100% alike; structure 100% alike) | opened menus and pop-ups at 390 px: a menu 80% alike",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-1440.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-768.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-390.png",
+        "checks\\round-0\\routes/login\\screenshot-1440.png",
+        "checks\\round-0\\routes/login\\screenshot-768.png",
+        "checks\\round-0\\routes/login\\screenshot-390.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-1440.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-768.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-390.png",
+        "checks\\round-0\\routes/info-about\\screenshot-1440.png",
+        "checks\\round-0\\routes/info-about\\screenshot-768.png",
+        "checks\\round-0\\routes/info-about\\screenshot-390.png"
+      ],
+      "at_ms": 1795437917614,
+      "pages": [
+        {
+          "name": "start page",
+          "dir": "",
+          "similarity": 89.82200828065868
+        },
+        {
+          "name": "/Begin-Enrollment.html",
+          "dir": "routes/begin-enrollment-html",
+          "similarity": 97.28815954090337
+        },
+        {
+          "name": "/login",
+          "dir": "routes/login",
+          "similarity": 89.82200828065868
+        },
+        {
+          "name": "/forgot-password",
+          "dir": "routes/forgot-password",
+          "similarity": 85.9671012851543
+        },
+        {
+          "name": "/info/about",
+          "dir": "routes/info-about",
+          "similarity": 89.75017748172563
+        }
+      ],
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "The start page logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "The start page loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "The start page has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/login logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/login loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/login has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/info/about loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/info/about has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "a menu opens in the build at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 90.52989097382013,
+      "note": "start page: 90% (1440 px: 93% alike (layout 95%, detail 92%; page height 900 vs 900 px); 768 px: 88% alike (layout 91%, detail 86%; page height 900 vs 900 px); 390 px: 88% alike (layout 97%, detail 79%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /Begin-Enrollment.html: 97% (1440 px: 99% alike (layout 99%, detail 98%; page height 900 vs 900 px); 768 px: 100% alike (layout 100%, detail 99%; page height 900 vs 900 px); 390 px: 94% alike (layout 95%, detail 92%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /login: 90% (1440 px: 93% alike (layout 95%, detail 92%; page height 900 vs 900 px); 768 px: 88% alike (layout 91%, detail 86%; page height 900 vs 900 px); 390 px: 88% alike (layout 97%, detail 79%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /forgot-password: 86% (1440 px: 92% alike (layout 93%, detail 90%; page height 900 vs 900 px); 768 px: 90% alike (layout 91%, detail 89%; page height 900 vs 900 px); 390 px: 76% alike (layout 84%, detail 68%; page height 900 vs 900 px); text 100% alike; structure 100% alike) | /info/about: 90% (1440 px: 96% alike (layout 98%, detail 94%; page height 1127 vs 1127 px); 768 px: 91% alike (layout 94%, detail 89%; page height 1302 vs 1435 px); 390 px: 82% alike (layout 90%, detail 73%; page height 1834 vs 1826 px); text 100% alike; structure 100% alike) | opened menus and pop-ups at 390 px: a menu 80% alike",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-1440.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-768.png",
+        "checks\\round-0\\routes/begin-enrollment-html\\screenshot-390.png",
+        "checks\\round-0\\routes/login\\screenshot-1440.png",
+        "checks\\round-0\\routes/login\\screenshot-768.png",
+        "checks\\round-0\\routes/login\\screenshot-390.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-1440.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-768.png",
+        "checks\\round-0\\routes/forgot-password\\screenshot-390.png",
+        "checks\\round-0\\routes/info-about\\screenshot-1440.png",
+        "checks\\round-0\\routes/info-about\\screenshot-768.png",
+        "checks\\round-0\\routes/info-about\\screenshot-390.png"
+      ],
+      "at_ms": 1795438902871,
+      "pages": [
+        {
+          "name": "start page",
+          "dir": "",
+          "similarity": 89.82200828065868
+        },
+        {
+          "name": "/Begin-Enrollment.html",
+          "dir": "routes/begin-enrollment-html",
+          "similarity": 97.28815954090335
+        },
+        {
+          "name": "/login",
+          "dir": "routes/login",
+          "similarity": 89.82200828065868
+        },
+        {
+          "name": "/forgot-password",
+          "dir": "routes/forgot-password",
+          "similarity": 85.9671012851543
+        },
+        {
+          "name": "/info/about",
+          "dir": "routes/info-about",
+          "similarity": 89.75017748172563
+        }
+      ],
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "The start page logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "The start page loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "The start page has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/Begin-Enrollment.html has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/login doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/login logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/login loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/login has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/forgot-password has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about doesn't scroll sideways at 390 px",
+          "passed": true
+        },
+        {
+          "title": "/info/about logs no errors the original doesn't",
+          "passed": true
+        },
+        {
+          "title": "/info/about loads every file it asks for",
+          "passed": true
+        },
+        {
+          "title": "/info/about has the original's landmarks",
+          "passed": true
+        },
+        {
+          "title": "a menu opens in the build at 390 px",
+          "passed": true
+        }
+      ]
+    }
+  ],
+  "agent_session": "dd5b8f00-9a85-4b96-b68d-ae006b668820",
+  "agent_session_by": "antigravity",
+  "agent_session_deep": true,
+  "capture_deep": true,
+  "allowed_actions": [],
+  "last_reply": "I added the animated monster video directly into the website so visitors can watch the characters come to life, blink, and move on screen just like on the original site. The video plays smoothly when anyone interacts with the page while keeping the initial presentation crisp. All visual and accessibility checks continue to pass at 91% likeness across all screen sizes.",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false
+}

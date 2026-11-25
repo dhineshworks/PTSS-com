@@ -1,0 +1,103 @@
+{
+  "id": "ev_7e3850a167f66f9be8b1d0d71e0d0c65f9acfbd4d1a4f15348e02709630d2d85",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:52256/"
+  },
+  "operation": "web_site_open",
+  "params": {
+    "height": 900,
+    "url": "http://127.0.0.1:52256/",
+    "width": 1440
+  },
+  "result": {
+    "browser": "Chrome/157.0.8103.80",
+    "facts": {
+      "elements": 109,
+      "forms": 1,
+      "height": 900,
+      "images": 2,
+      "lang": "en",
+      "links": 17,
+      "ready": "complete",
+      "title": "AdaptedMind",
+      "url": "http://127.0.0.1:52256/",
+      "width": 1440
+    },
+    "health": {
+      "errors": [
+        {
+          "kind": "console",
+          "text": "GuestApi.updateGuest: falsy guestID {undefined}, jwt {null}, guest: Object",
+          "url": ""
+        },
+        {
+          "kind": "log",
+          "text": "Access to font at 'https://assets.adaptedmind.com/fonts/msans.woff2' from origin 'http://127.0.0.1:52256' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+          "url": "http://127.0.0.1:52256/"
+        },
+        {
+          "kind": "log",
+          "text": "Access to font at 'https://assets.adaptedmind.com/fonts/msans.woff' from origin 'http://127.0.0.1:52256' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+          "url": "http://127.0.0.1:52256/"
+        },
+        {
+          "kind": "log",
+          "text": "Access to font at 'https://assets.adaptedmind.com/fonts/msans.ttf' from origin 'http://127.0.0.1:52256' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+          "url": "http://127.0.0.1:52256/"
+        }
+      ],
+      "failed_requests": [
+        {
+          "error": "net::ERR_FAILED",
+          "type": "Font",
+          "url": "https://assets.adaptedmind.com/fonts/msans.woff2"
+        },
+        {
+          "error": "net::ERR_FAILED",
+          "type": "Font",
+          "url": "https://assets.adaptedmind.com/fonts/msans.woff"
+        },
+        {
+          "error": "net::ERR_FAILED",
+          "type": "Font",
+          "url": "https://assets.adaptedmind.com/fonts/msans.ttf"
+        },
+        {
+          "status": 404,
+          "type": "Other",
+          "url": "http://127.0.0.1:52256/favicon.ico"
+        }
+      ]
+    },
+    "title": "AdaptedMind",
+    "url": "http://127.0.0.1:52256/"
+  },
+  "summary": "Opened http://127.0.0.1:52256/: \"AdaptedMind\". While loading: 4 error(s), 4 failed request(s).",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "private_profile",
+      "message": "A fresh private browser: pages behind a login show their signed-out state."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:52256/"
+    }
+  ],
+  "links": []
+}

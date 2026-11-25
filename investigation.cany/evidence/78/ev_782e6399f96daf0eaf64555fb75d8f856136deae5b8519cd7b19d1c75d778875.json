@@ -1,0 +1,60 @@
+{
+  "id": "ev_782e6399f96daf0eaf64555fb75d8f856136deae5b8519cd7b19d1c75d778875",
+  "subject": {
+    "kind": "comparison",
+    "name": "screenshots"
+  },
+  "operation": "web_pixels_compare",
+  "params": {
+    "after_sha256": "55266ad71a4e1e7bd03ad2b085a96bcc30e9ebaf6b481abd5a44b6da2a0c16d4",
+    "before_sha256": "c5d7137ab7ae9794669be77ebf403508f3601f6cff66dd28bb99c60d41bc8717",
+    "common_area": true,
+    "tolerance": 24
+  },
+  "result": {
+    "changed_bounding_box": {
+      "height": 795,
+      "width": 390,
+      "x": 0,
+      "y": 18
+    },
+    "comparable": true,
+    "difference_fraction": 0.08608831908831908,
+    "differing_pixels": 30217,
+    "height": 900,
+    "identical": false,
+    "layout_similarity": 0.9670175438596491,
+    "max_channel_delta": 250,
+    "perceptual_similarity": 0.7855029730457267,
+    "sizes": {
+      "after": {
+        "height": 900,
+        "width": 390
+      },
+      "before": {
+        "height": 900,
+        "width": 390
+      }
+    },
+    "tolerance": 24,
+    "total_pixels": 351000,
+    "width": 390
+  },
+  "summary": "Over the shared 390×900 area the layout is 97% alike and the detail 79% (30217 pixel(s) differ exactly).",
+  "confidence": "derived",
+  "authority": "original-files",
+  "environment": {
+    "clean_room": false,
+    "engine": "builtin",
+    "engine_version": "0.6.1",
+    "host": "windows-x86_64"
+  },
+  "limitations": [],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [],
+  "links": []
+}

@@ -1,0 +1,21 @@
+{
+  "short_name": "NumlingJungle",
+  "name": "Numling Jungle - Kids Math Learning Adventure",
+  "icons": [
+    {
+      "src": "/assets/coin.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/coin.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#BDEBFF",
+  "theme_color": "#3DDC84",
+  "display": "standalone",
+  "orientation": "any"
+}

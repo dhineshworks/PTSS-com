@@ -1,0 +1,61 @@
+{
+  "id": "ev_c6711b8de4e1780a14e279389a88403cc9bcb939d56e884346ec5a372282efb8",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:59731/login"
+  },
+  "operation": "web_site_open",
+  "params": {
+    "height": 900,
+    "url": "http://127.0.0.1:59731/login",
+    "width": 1440
+  },
+  "result": {
+    "browser": "Chrome/157.0.8103.80",
+    "facts": {
+      "elements": 114,
+      "forms": 1,
+      "height": 900,
+      "images": 2,
+      "lang": "en",
+      "links": 17,
+      "ready": "complete",
+      "title": "AdaptedMind",
+      "url": "http://127.0.0.1:59731/login",
+      "width": 1440
+    },
+    "health": {
+      "errors": [],
+      "failed_requests": []
+    },
+    "title": "AdaptedMind",
+    "url": "http://127.0.0.1:59731/login"
+  },
+  "summary": "Opened http://127.0.0.1:59731/login: \"AdaptedMind\".",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": false,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "private_profile",
+      "message": "A fresh private browser: pages behind a login show their signed-out state."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:59731/login"
+    }
+  ],
+  "links": []
+}
